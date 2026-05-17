@@ -110,10 +110,12 @@ body {
 }
 .localized-name.is-machine_translated { color: #8fa2b4; }
 .knowledge-card { display: grid; gap: 12px; }
+.knowledge-panel {
+  display: grid;
+  gap: 12px;
+}
 .knowledge-heading {
-  margin: 18px 0 12px;
-  padding-top: 16px;
-  border-top: 1px solid var(--d99-line);
+  margin: 0;
   font-size: 1rem;
 }
 .knowledge-summary h4 { margin: 0 0 6px; font-size: .9rem; }
@@ -415,6 +417,11 @@ body {
 @media (max-width: 760px) {
   .atlas-shell { padding: 18px; }
   .hero, .workspace { display: grid; grid-template-columns: 1fr; }
+  .hero { gap: 16px; }
+  .sidebar { display: contents; }
+  #results-panel { order: 1; }
+  .stage { order: 2; }
+  #detail-panel { order: 3; }
   .d99-slices { grid-template-columns: 1fr; }
   .d99-viewer__toolbar { left: 16px; right: auto; }
 }
