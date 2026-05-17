@@ -1495,6 +1495,942 @@
       "journal": "Neuroscience Letters",
       "doi": "10.1016/S0304-3940(96)13206-7",
       "pmid": "8971814"
+    },
+    {
+      "citation_id": "hackett_1999",
+      "title": "Callosal connections of the parabelt auditory cortex in macaque monkeys",
+      "year": "1999",
+      "authors": [
+        "Hackett",
+        "Stepniewska",
+        "Kaas"
+      ],
+      "journal": "European Journal of Neuroscience",
+      "doi": "10.1046/j.1460-9568.1999.00492.x",
+      "pmid": "10103079"
+    },
+    {
+      "citation_id": "saleem_2017",
+      "title": "Thalamic connections of the core auditory cortex and rostral supratemporal plane in the macaque monkey",
+      "year": "2017",
+      "authors": [
+        "Saleem"
+      ],
+      "journal": "Journal of Comparative Neurology",
+      "doi": "10.1002/cne.24228",
+      "pmid": "28685822"
+    },
+    {
+      "citation_id": "johnson_2020",
+      "title": "Amplitude modulation encoding in the auditory cortex: comparisons between the primary and middle lateral belt regions",
+      "year": "2020",
+      "authors": [],
+      "journal": " 'Sutter']\"",
+      "doi": "Journal of Neurophysiology",
+      "pmid": "10.1152/jn.00171.2020",
+      "null": [
+        "33026929"
+      ]
+    },
+    {
+      "citation_id": "gray_2013",
+      "title": "Parvalbumin increases in the medial and lateral geniculate nuclei of aged rhesus macaques",
+      "year": "2013",
+      "authors": [
+        "Gray"
+      ],
+      "journal": "Frontiers in Aging Neuroscience",
+      "doi": "10.3389/fnagi.2013.00069",
+      "pmid": "24265617"
+    },
+    {
+      "citation_id": "tian_2004",
+      "title": "Processing of frequency-modulated sounds in the lateral auditory belt cortex of the rhesus monkey",
+      "year": "2004",
+      "authors": [
+        "Tian",
+        "Rauschecker"
+      ],
+      "journal": "Journal of Neurophysiology",
+      "doi": "10.1152/jn.00472.2003",
+      "pmid": "15486426"
+    },
+    {
+      "citation_id": "smiley_2007",
+      "title": "Multisensory convergence in auditory cortex II. Thalamocortical connections of the caudal superior temporal plane",
+      "year": "2007",
+      "authors": [
+        "Smiley"
+      ],
+      "journal": "Journal of Comparative Neurology",
+      "doi": "10.1002/cne.21326",
+      "pmid": "17444488"
+    },
+    {
+      "citation_id": "kobayashi_2000",
+      "title": "Macaque monkey retrosplenial cortex I. three-dimensional and cytoarchitectonic organization",
+      "year": "2000",
+      "authors": [
+        "Kobayashi",
+        "Amaral"
+      ],
+      "journal": "Journal of Comparative Neurology",
+      "doi": "10.1002/1096-9861(20001023)426:3<339::AID-CNE1>3.0.CO;2-8",
+      "pmid": "10992242"
+    },
+    {
+      "citation_id": "aggleton_2014_retrosplenial",
+      "title": "The origin of projections from the posterior cingulate and retrosplenial cortices to the anterior medial dorsal and laterodorsal thalamic nuclei of macaque monkeys",
+      "year": "2014",
+      "authors": [
+        "Aggleton",
+        "Saunders",
+        "Wright",
+        "Vann"
+      ],
+      "journal": "European Journal of Neuroscience",
+      "doi": "10.1111/ejn.12389",
+      "pmid": "24134130"
+    },
+    {
+      "citation_id": "gerbella_2010",
+      "title": "Cortical connections of the macaque caudal ventrolateral prefrontal areas 45A and 45B",
+      "year": "2010",
+      "authors": [
+        "Gerbella",
+        "Belmalih",
+        "Borra",
+        "Rozzi",
+        "Luppino"
+      ],
+      "journal": "Cerebral Cortex",
+      "doi": "10.1093/cercor/bhp087",
+      "pmid": "19406905"
+    },
+    {
+      "citation_id": "murray_2015",
+      "title": "Specialized areas for value updating and goal selection in the primate orbitofrontal cortex",
+      "year": "2015",
+      "authors": [
+        "Murray",
+        "Rudebeck"
+      ],
+      "journal": "eLife",
+      "doi": "10.7554/eLife.11695",
+      "pmid": "26673891"
+    },
+    {
+      "citation_id": "bon_2006",
+      "title": "Auditory environmental cells and visual fixation effect in area 8B of macaque monkey",
+      "year": "2006",
+      "authors": [
+        "Bon",
+        "Lucchetti"
+      ],
+      "journal": "Experimental Brain Research",
+      "doi": "10.1007/s00221-005-0197-5",
+      "pmid": "16317576"
+    },
+    {
+      "citation_id": "joyce_2020",
+      "title": "Serial Prefrontal Pathways Are Positioned to Balance Cognition and Emotion in Primates",
+      "year": "2020",
+      "authors": [
+        "Joyce"
+      ],
+      "journal": "Journal of Neuroscience",
+      "doi": "10.1523/JNEUROSCI.1208-20.2020",
+      "pmid": "32989097"
+    },
+    {
+      "citation_id": "vogt_2004",
+      "title": "Cytoarchitecture and cortical connections of the posterior cingulate and adjacent somatosensory fields in the rhesus monkey",
+      "year": "2004",
+      "authors": [
+        "Vogt",
+        "Pandya"
+      ],
+      "journal": "Journal of Comparative Neurology",
+      "doi": "10.1002/cne.11083",
+      "pmid": "14689472"
+    },
+    {
+      "citation_id": "nimitvilai_2017",
+      "title": "Orbitofrontal Neuroadaptations and Cross-Species Synaptic Biomarkers in Heavy-Drinking Macaques",
+      "year": "2017",
+      "authors": [
+        "Nimitvilai"
+      ],
+      "journal": "Journal of Neuroscience",
+      "doi": "10.1523/JNEUROSCI.0133-17.2017",
+      "pmid": "28270566"
+    },
+    {
+      "citation_id": "bradfield_2016",
+      "title": "Learned Value Shapes Responses to Objects in Frontal and Ventral Stream Networks in Macaque Monkeys",
+      "year": "2016",
+      "authors": [
+        "Bradfield"
+      ],
+      "journal": "Cerebral Cortex",
+      "doi": "10.1093/cercor/bhw112",
+      "pmid": "27166166"
+    },
+    {
+      "citation_id": "carmichael_price_1996",
+      "title": "Connectional networks within the orbital and medial prefrontal cortex of macaque monkeys",
+      "year": "1996",
+      "authors": [
+        "Carmichael",
+        "Price"
+      ],
+      "journal": "Journal of Comparative Neurology",
+      "doi": "10.1002/(SICI)1096-9861(19960722)371:2<179::AID-CNE1>3.0.CO;2-#",
+      "pmid": "8835726"
+    },
+    {
+      "citation_id": "vogt_1987",
+      "title": "Cingulate cortex of the rhesus monkey II. Cortical afferents",
+      "year": "1987",
+      "authors": [
+        "Vogt"
+      ],
+      "journal": "Journal of Comparative Neurology",
+      "doi": "",
+      "pmid": "3624555"
+    },
+    {
+      "citation_id": "gerbella_2013",
+      "title": "Connectional heterogeneity of the ventral part of the macaque area 46",
+      "year": "2013",
+      "authors": [
+        "Gerbella"
+      ],
+      "journal": "Cerebral Cortex",
+      "doi": "10.1093/cercor/bhs096",
+      "pmid": "22499799"
+    },
+    {
+      "citation_id": "stokes_2020",
+      "title": "The lateral prefrontal cortex of primates encodes stimulus colors and their behavioral relevance during a match-to-sample task",
+      "year": "2020",
+      "authors": [
+        "Stokes"
+      ],
+      "journal": "Scientific Reports",
+      "doi": "10.1038/s41598-020-61019-0",
+      "pmid": "32144331"
+    },
+    {
+      "citation_id": "middleton_strick_2001",
+      "title": "Cerebellar projections to the prefrontal cortex of the primate",
+      "year": "2001",
+      "authors": [
+        "Middleton",
+        "Strick"
+      ],
+      "journal": "Journal of Neuroscience",
+      "doi": "",
+      "pmid": "11160449"
+    },
+    {
+      "citation_id": "saleem_1996",
+      "title": "Divergent projections from the anterior inferotemporal area TE to the perirhinal and entorhinal cortices in the macaque monkey",
+      "year": "1996",
+      "authors": [
+        "Saleem",
+        "Tanaka"
+      ],
+      "journal": "Journal of Neuroscience",
+      "doi": "10.1523/JNEUROSCI.16-15-04757.1996",
+      "pmid": "8764663"
+    },
+    {
+      "citation_id": "saleem_2007",
+      "title": "Cytoarchitectonic and chemoarchitectonic subdivisions of the perirhinal and parahippocampal cortices in macaque monkeys",
+      "year": "2007",
+      "authors": [
+        "Saleem"
+      ],
+      "journal": "Journal of Comparative Neurology",
+      "doi": "10.1002/cne.21141",
+      "pmid": "17183540"
+    },
+    {
+      "citation_id": "ohara_2022",
+      "title": "Laminar Organization of the Entorhinal Cortex in Macaque Monkeys Based on Cell-Type-Specific Markers and Connectivity",
+      "year": "2022",
+      "authors": [
+        "Ohara"
+      ],
+      "journal": "Cerebral Cortex",
+      "doi": "10.1093/cercor/bhab511",
+      "pmid": "34949991"
+    },
+    {
+      "citation_id": "munoz_2008",
+      "title": "Entorhinal cortex of the monkey IV. Topographical and laminar organization of cortical afferents",
+      "year": "2008",
+      "authors": [
+        "Munoz",
+        "Insausti",
+        "Amaral"
+      ],
+      "journal": "Journal of Comparative Neurology",
+      "doi": "10.1002/cne.21652",
+      "pmid": "18551518"
+    },
+    {
+      "citation_id": "amaral_2008",
+      "title": "Intrinsic connections of the macaque monkey hippocampal formation I. Dentate gyrus",
+      "year": "2008",
+      "authors": [
+        "Amaral"
+      ],
+      "journal": "Progress in Brain Research",
+      "doi": "",
+      "pmid": "18844234"
+    },
+    {
+      "citation_id": "bachevalier_2015",
+      "title": "The influence of context on recognition memory in monkeys: effects of hippocampal parahippocampal and perirhinal lesions",
+      "year": "2015",
+      "authors": [
+        "Bachevalier",
+        "Nemanic",
+        "Alvarado"
+      ],
+      "journal": "Behavioural Brain Research",
+      "doi": "10.1016/j.bbr.2014.07.010",
+      "pmid": "25026097"
+    },
+    {
+      "citation_id": "witter_2021",
+      "title": "The entorhinal cortex of the monkey VI. Organization of projections from the hippocampus subiculum presubiculum and parasubiculum",
+      "year": "2021",
+      "authors": [
+        "Witter",
+        "Amaral"
+      ],
+      "journal": "Journal of Comparative Neurology",
+      "doi": "10.1002/cne.24983",
+      "pmid": "32656783"
+    },
+    {
+      "citation_id": "rolls_2006",
+      "title": "Neurophysiological and computational analyses of the primate presubiculum subiculum and related areas",
+      "year": "2006",
+      "authors": [
+        "Rolls"
+      ],
+      "journal": "Behavioural Brain Research",
+      "doi": "10.1016/j.bbr.2006.06.015",
+      "pmid": "16859765"
+    },
+    {
+      "citation_id": "aggleton_2005",
+      "title": "Projections from the hippocampal region to the mammillary bodies in macaque monkeys",
+      "year": "2005",
+      "authors": [
+        "Aggleton",
+        "Vann",
+        "Saunders"
+      ],
+      "journal": "European Journal of Neuroscience",
+      "doi": "10.1111/j.1460-9568.2005.04450.x",
+      "pmid": "16307594"
+    },
+    {
+      "citation_id": "blatt_rosene_1998",
+      "title": "Organization of direct hippocampal efferent projections to the cerebral cortex of the rhesus monkey: projections from CA1 prosubiculum and subiculum to the temporal lobe",
+      "year": "1998",
+      "authors": [
+        "Blatt",
+        "Rosene"
+      ],
+      "journal": "Journal of Comparative Neurology",
+      "doi": "10.1002/(sici)1096-9861(19980302)392:1<92::aid-cne7>3.0.co;2-k",
+      "pmid": "9482235"
+    },
+    {
+      "citation_id": "distler_1993",
+      "title": "Cortical connections of inferior temporal area TEO in macaque monkeys",
+      "year": "1993",
+      "authors": [
+        "Distler",
+        "Boussaoud",
+        "Desimone",
+        "Ungerleider"
+      ],
+      "journal": "Journal of Comparative Neurology",
+      "doi": "10.1002/cne.903340111",
+      "pmid": "8408755"
+    },
+    {
+      "citation_id": "seress_1993",
+      "title": "Calretinin immunoreactivity in the monkey hippocampal formation I. Light and electron microscopic characteristics and co-localization with other calcium-binding proteins",
+      "year": "1993",
+      "authors": [
+        "Seress",
+        "Nitsch",
+        "Leranth"
+      ],
+      "journal": "Neuroscience",
+      "doi": "10.1016/0306-4522(93)90441-h",
+      "pmid": "8413936"
+    },
+    {
+      "citation_id": "eckenhoff_rakic_1984",
+      "title": "Radial organization of the hippocampal dentate gyrus: a Golgi ultrastructural and immunocytochemical analysis in the developing rhesus monkey",
+      "year": "1984",
+      "authors": [
+        "Eckenhoff",
+        "Rakic"
+      ],
+      "journal": "Journal of Comparative Neurology",
+      "doi": "10.1002/cne.902230102",
+      "pmid": "6707248"
+    },
+    {
+      "citation_id": "jabes_2026",
+      "title": "Postnatal Development of the Perirhinal and Parahippocampal Cortices: A Stereological Study in Macaque Monkeys",
+      "year": "2026",
+      "authors": [
+        "Jabes"
+      ],
+      "journal": "Journal of Comparative Neurology",
+      "doi": "",
+      "pmid": "41563719"
+    },
+    {
+      "citation_id": "cheng_1997",
+      "title": "Organization of corticostriatal and corticoamygdalar projections arising from the anterior inferotemporal area TE of the macaque monkey: a Phaseolus vulgaris leucoagglutinin study",
+      "year": "1997",
+      "authors": [
+        "Cheng",
+        "Saleem",
+        "Tanaka"
+      ],
+      "journal": "Journal of Neuroscience",
+      "doi": "10.1523/JNEUROSCI.17-20-07902.1997",
+      "pmid": "9315910"
+    },
+    {
+      "citation_id": "bogadhi_2018",
+      "title": "Brain regions modulated during covert visual attention in the macaque",
+      "year": "2018",
+      "authors": [
+        "Bogadhi"
+      ],
+      "journal": "Scientific Reports",
+      "doi": "10.1038/s41598-018-33567-9",
+      "pmid": "30323289"
+    },
+    {
+      "citation_id": "kilintari_2014",
+      "title": "Involvement of the superior temporal cortex in action execution and action observation",
+      "year": "2014",
+      "authors": [
+        "Kilintari",
+        "Raos",
+        "Savaki"
+      ],
+      "journal": "Journal of Neuroscience",
+      "doi": "10.1523/JNEUROSCI.0736-14.2014",
+      "pmid": "24990920"
+    },
+    {
+      "citation_id": "boussaoud_1990",
+      "title": "Pathways for motion analysis: cortical connections of the medial superior temporal and fundus of the superior temporal visual areas in the macaque",
+      "year": "1990",
+      "authors": [
+        "Boussaoud",
+        "Ungerleider",
+        "Desimone"
+      ],
+      "journal": "Journal of Comparative Neurology",
+      "doi": "10.1002/cne.902960311",
+      "pmid": ""
+    },
+    {
+      "citation_id": "yukie_2000",
+      "title": "Connections between the medial temporal cortex and the CA1 subfield of the hippocampal formation in the Japanese monkey (Macaca fuscata)",
+      "year": "2000",
+      "authors": [
+        "Yukie"
+      ],
+      "journal": "Journal of Comparative Neurology",
+      "doi": "10.1002/1096-9861(20000724)423:2<282::AID-CNE7>3.0.CO;2-Z",
+      "pmid": "10867659"
+    },
+    {
+      "citation_id": "bonda_2000",
+      "title": "Organization of connections of the basal and accessory basal nuclei in the monkey amygdala",
+      "year": "2000",
+      "authors": [
+        "Bonda"
+      ],
+      "journal": "European Journal of Neuroscience",
+      "doi": "10.1046/j.1460-9568.2000.00082.x",
+      "pmid": "10886338"
+    },
+    {
+      "citation_id": "cho_2013",
+      "title": "Cortico-amygdala-striatal circuits are organized as hierarchical subsystems through the primate amygdala",
+      "year": "2013",
+      "authors": [
+        "Cho",
+        "Ernst",
+        "Fudge"
+      ],
+      "journal": "Journal of Neuroscience",
+      "doi": "10.1523/JNEUROSCI.0170-13.2013",
+      "pmid": "23986238"
+    },
+    {
+      "citation_id": "chareyron_2016",
+      "title": "Selective lesion of the hippocampus increases the differentiation of immature neurons in the monkey amygdala",
+      "year": "2016",
+      "authors": [
+        "Chareyron"
+      ],
+      "journal": "Proceedings of the National Academy of Sciences",
+      "doi": "10.1073/pnas.1609718113",
+      "pmid": "27911768"
+    },
+    {
+      "citation_id": "fudge_2004",
+      "title": "Bcl-2 immunoreactive neurons are differentially distributed in subregions of the amygdala and hippocampus of the adult macaque",
+      "year": "2004",
+      "authors": [
+        "Fudge"
+      ],
+      "journal": "Journal of Comparative Neurology",
+      "doi": "10.1002/cne.20147",
+      "pmid": "15262342"
+    },
+    {
+      "citation_id": "ma_2021",
+      "title": "Perigenual and Subgenual Anterior Cingulate Afferents Converge on Common Pyramidal Cells in Amygdala Subregions of the Macaque",
+      "year": "2021",
+      "authors": [
+        "Ma"
+      ],
+      "journal": "Journal of Neuroscience",
+      "doi": "10.1523/JNEUROSCI.1445-21.2021",
+      "pmid": "34649954"
+    },
+    {
+      "citation_id": "mcDonald_2022",
+      "title": "Specific neuronal subpopulations in the amygdala of macaque monkeys express high levels of nonphosphorylated neurofilaments",
+      "year": "2022",
+      "authors": [
+        "McDonald"
+      ],
+      "journal": "Brain Structure and Function",
+      "doi": "10.1007/s00429-021-02450-9",
+      "pmid": "34958755"
+    },
+    {
+      "citation_id": "hyvarinen_1981",
+      "title": "Regional distribution of functions in parietal association area 7 of the monkey",
+      "year": "1981",
+      "authors": [
+        "Hyvarinen"
+      ],
+      "journal": "Brain Research",
+      "doi": "10.1016/0006-8993(81)90533-3",
+      "pmid": "7214136"
+    },
+    {
+      "citation_id": "bakola_2013",
+      "title": "Cortical connectivity suggests a role in limb coordination for macaque area PE of the superior parietal cortex",
+      "year": "2013",
+      "authors": [
+        "Bakola"
+      ],
+      "journal": "Journal of Neuroscience",
+      "doi": "10.1523/JNEUROSCI.4685-12.2013",
+      "pmid": "23575861"
+    },
+    {
+      "citation_id": "breveglieri_2008",
+      "title": "Visual somatosensory and bimodal activities in the macaque parietal area PEc",
+      "year": "2008",
+      "authors": [
+        "Breveglieri"
+      ],
+      "journal": "Cerebral Cortex",
+      "doi": "10.1093/cercor/bhm127",
+      "pmid": "17660487"
+    },
+    {
+      "citation_id": "bakola_2010",
+      "title": "Cortical connections of parietal field PEc in the macaque: linking vision and somatic sensation for the control of limb action",
+      "year": "2010",
+      "authors": [
+        "Bakola"
+      ],
+      "journal": "Cerebral Cortex",
+      "doi": "10.1093/cercor/bhq007",
+      "pmid": "20176687"
+    },
+    {
+      "citation_id": "durand_2007",
+      "title": "Anterior regions of monkey parietal cortex process visual 3D shape",
+      "year": "2007",
+      "authors": [
+        "Durand"
+      ],
+      "journal": "Neuron",
+      "doi": "10.1016/j.neuron.2007.06.040",
+      "pmid": "17678860"
+    },
+    {
+      "citation_id": "gardner_2007",
+      "title": "Neurophysiology of prehension. I. Posterior parietal cortex and object-oriented hand behaviors",
+      "year": "2007",
+      "authors": [
+        "Gardner"
+      ],
+      "journal": "Journal of Neurophysiology",
+      "doi": "10.1152/jn.00558.2006",
+      "pmid": "16971679"
+    },
+    {
+      "citation_id": "chen_2013",
+      "title": "Functional specializations of the ventral intraparietal area for multisensory heading discrimination",
+      "year": "2013",
+      "authors": [
+        "Chen"
+      ],
+      "journal": "Journal of Neuroscience",
+      "doi": "10.1523/JNEUROSCI.5035-12.2013",
+      "pmid": "23426684"
+    },
+    {
+      "citation_id": "guldin_2019",
+      "title": "Ascending vestibular pathways to parietal areas MIP and LIPv and efference copy inputs from the medial reticular formation",
+      "year": "2019",
+      "authors": [
+        "Guldin"
+      ],
+      "journal": "Progress in Brain Research",
+      "doi": "",
+      "pmid": "31012519"
+    },
+    {
+      "citation_id": "hihara_2015",
+      "title": "Visual responsiveness of neurons in the secondary somatosensory area and its surrounding parietal operculum regions in awake macaque monkeys",
+      "year": "2015",
+      "authors": [
+        "Hihara"
+      ],
+      "journal": "Cerebral Cortex",
+      "doi": "10.1093/cercor/bhv095",
+      "pmid": "25962920"
+    },
+    {
+      "citation_id": "krubitzer_2004",
+      "title": "Organization of area 3a in macaque monkeys: contributions to the cortical phenotype",
+      "year": "2004",
+      "authors": [
+        "Krubitzer"
+      ],
+      "journal": "Journal of Comparative Neurology",
+      "doi": "10.1002/cne.20025",
+      "pmid": "14983479"
+    },
+    {
+      "citation_id": "cipolloni_1999",
+      "title": "Cortical connections of the frontoparietal opercular areas in the rhesus monkey",
+      "year": "1999",
+      "authors": [
+        "Cipolloni",
+        "Pandya"
+      ],
+      "journal": "Journal of Comparative Neurology",
+      "doi": "",
+      "pmid": "9888311"
+    },
+    {
+      "citation_id": "galletti_2019",
+      "title": "Receptor density pattern confirms and enhances the anatomic-functional features of the macaque superior parietal lobule areas",
+      "year": "2019",
+      "authors": [
+        "Galletti"
+      ],
+      "journal": "Brain Structure and Function",
+      "doi": "10.1007/s00429-019-01935-0",
+      "pmid": "31392403"
+    },
+    {
+      "citation_id": "mesulam_mufson_1982",
+      "title": "Insula of the old world monkey. I. Architectonics in the insulo-orbito-temporal component of the paralimbic brain",
+      "year": "1982",
+      "authors": [
+        "Mesulam",
+        "Mufson"
+      ],
+      "journal": "Journal of Comparative Neurology",
+      "doi": "10.1002/cne.902120106",
+      "pmid": "7174905"
+    },
+    {
+      "citation_id": "chikama_1997",
+      "title": "Insular cortical projections to functional regions of the striatum correlate with cortical cytoarchitectonic organization in the primate",
+      "year": "1997",
+      "authors": [
+        "Chikama",
+        "McFarland",
+        "Amaral",
+        "Haber"
+      ],
+      "journal": "Journal of Neuroscience",
+      "doi": "10.1523/JNEUROSCI.17-24-09687.1997",
+      "pmid": "9391023"
+    },
+    {
+      "citation_id": "fudge_haber_2005",
+      "title": "Insular and gustatory inputs to the caudal ventral striatum in primates",
+      "year": "2005",
+      "authors": [
+        "Fudge",
+        "Breitbart",
+        "Danish",
+        "Pannoni",
+        "Haber"
+      ],
+      "journal": "Journal of Comparative Neurology",
+      "doi": "10.1002/cne.20641",
+      "pmid": "16052493"
+    },
+    {
+      "citation_id": "schneider_1993",
+      "title": "A modality-specific somatosensory area within the insula of the rhesus monkey",
+      "year": "1993",
+      "authors": [
+        "Schneider",
+        "Friedman",
+        "Mishkin"
+      ],
+      "journal": "Brain Research",
+      "doi": "10.1016/0006-8993(93)90305-7",
+      "pmid": "8221062"
+    },
+    {
+      "citation_id": "kaskan_2019",
+      "title": "Gustatory responses in macaque monkeys revealed with fMRI: Comments on taste taste preference and internal state",
+      "year": "2019",
+      "authors": [
+        "Kaskan"
+      ],
+      "journal": "NeuroImage",
+      "doi": "10.1016/j.neuroimage.2018.09.065",
+      "pmid": "30291973"
+    },
+    {
+      "citation_id": "krockenberger_2023",
+      "title": "Cytoarchitectonic and connection stripes in the dysgranular insular cortex in the macaque monkey",
+      "year": "2023",
+      "authors": [
+        "Krockenberger"
+      ],
+      "journal": "Journal of Comparative Neurology",
+      "doi": "10.1002/cne.25571",
+      "pmid": "38105579"
+    },
+    {
+      "citation_id": "brewer_2002",
+      "title": "Visual areas in macaque cortex measured using functional magnetic resonance imaging",
+      "year": "2002",
+      "authors": [
+        "Brewer"
+      ],
+      "journal": "Journal of Neuroscience",
+      "doi": "10.1523/JNEUROSCI.22-23-10416.2002",
+      "pmid": "12451141"
+    },
+    {
+      "citation_id": "elshout_2019",
+      "title": "Choice-related activity during visual slant discrimination in macaque CIP but not V3A",
+      "year": "2019",
+      "authors": [
+        "El-Shamayleh"
+      ],
+      "journal": "Journal of Neuroscience",
+      "doi": "10.1523/JNEUROSCI.2845-18.2019",
+      "pmid": "30923736"
+    },
+    {
+      "citation_id": "lyon_kaas_2012",
+      "title": "The case for primate V3",
+      "year": "2012",
+      "authors": [
+        "Lyon",
+        "Kaas"
+      ],
+      "journal": "Proceedings of the Royal Society B",
+      "doi": "10.1098/rspb.2011.2048",
+      "pmid": "22171081"
+    },
+    {
+      "citation_id": "gatass_2005",
+      "title": "Cortical visual areas in monkeys: location topography connections columns plasticity and cortical dynamics",
+      "year": "2005",
+      "authors": [
+        "Gattass"
+      ],
+      "journal": "Philosophical Transactions of the Royal Society B",
+      "doi": "10.1098/rstb.2005.1629",
+      "pmid": "15937009"
+    },
+    {
+      "citation_id": "pearson_1982",
+      "title": "The organization of the connections between the cortex and the claustrum in the monkey",
+      "year": "1982",
+      "authors": [
+        "Pearson",
+        "Brooks",
+        "Gatter",
+        "Powell"
+      ],
+      "journal": "Brain Research",
+      "doi": "",
+      "pmid": "6800568"
+    },
+    {
+      "citation_id": "milanese_2024",
+      "title": "Involvement of the claustrum in the cortico-basal ganglia circuitry: connectional study in the non-human primate",
+      "year": "2024",
+      "authors": [
+        "Milanese"
+      ],
+      "journal": "Brain Structure and Function",
+      "doi": "10.1007/s00429-024-02790-0",
+      "pmid": "38615290"
+    },
+    {
+      "citation_id": "lucchetti_1996",
+      "title": "Characterization of neurons related to eye and limb movements in the supplementary motor area of macaque monkeys",
+      "year": "1996",
+      "authors": [
+        "Lucchetti",
+        "Bon"
+      ],
+      "journal": "Journal of Neurophysiology",
+      "doi": "10.1152/jn.1996.75.6.2505",
+      "pmid": "8793756"
+    },
+    {
+      "citation_id": "lanzilotto_2013",
+      "title": "A new field in monkey frontal cortex: premotor ear-eye field PEEF",
+      "year": "2013",
+      "authors": [
+        "Lanzilotto"
+      ],
+      "journal": "Neuroscience and Biobehavioral Reviews",
+      "doi": "10.1016/j.neubiorev.2013.05.010",
+      "pmid": "23727051"
+    },
+    {
+      "citation_id": "raos_2003",
+      "title": "Functional properties of grasping-related neurons in the dorsal premotor area F2 of the macaque monkey",
+      "year": "2003",
+      "authors": [
+        "Raos"
+      ],
+      "journal": "Journal of Neurophysiology",
+      "doi": "10.1152/jn.00463.2002",
+      "pmid": "12574454"
+    },
+    {
+      "citation_id": "mayo_2015",
+      "title": "Dynamics of visual receptive fields in the macaque frontal eye field",
+      "year": "2015",
+      "authors": [
+        "Mayo"
+      ],
+      "journal": "Journal of Neurophysiology",
+      "doi": "10.1152/jn.00746.2015",
+      "pmid": "26378208"
+    },
+    {
+      "citation_id": "turner_2005",
+      "title": "Functional neuroanatomy of the macaque striatum: Olfactory input",
+      "year": "2005",
+      "authors": [
+        "Turner"
+      ],
+      "journal": "Journal of Comparative Neurology",
+      "doi": "10.1002/cne.20476",
+      "pmid": "15852482"
+    },
+    {
+      "citation_id": "treue_2017",
+      "title": "Spatial attention reduces burstiness in macaque visual cortical area MST",
+      "year": "2017",
+      "authors": [
+        "Treue"
+      ],
+      "journal": "Cerebral Cortex",
+      "doi": "10.1093/cercor/bhw353",
+      "pmid": "28365773"
+    },
+    {
+      "citation_id": "hoffmann_2022",
+      "title": "Abstract encoding of categorical decisions in medial superior temporal and lateral intraparietal cortices",
+      "year": "2022",
+      "authors": [
+        "Hoffmann"
+      ],
+      "journal": "Nature Communications",
+      "doi": "10.1038/s41467-022-33939-4",
+      "pmid": "36261285"
+    },
+    {
+      "citation_id": "hackett_2017",
+      "title": "Thalamic connections of the core auditory cortex and rostral supratemporal plane in the macaque monkey",
+      "year": "2017",
+      "authors": [
+        "Hackett"
+      ],
+      "journal": "Journal of Comparative Neurology",
+      "doi": "10.1002/cne.24224",
+      "pmid": "28685822"
+    },
+    {
+      "citation_id": "gerbella_2014",
+      "title": "Connections of the macaque granular frontal opercular area: a possible neural substrate for the contribution of limbic inputs for controlling hand and face/mouth actions",
+      "year": "2014",
+      "authors": [
+        "Gerbella"
+      ],
+      "journal": "Brain Structure and Function",
+      "doi": "10.1007/s00429-014-0819-8",
+      "pmid": "25239866"
+    },
+    {
+      "citation_id": "tranel_1988",
+      "title": "Parahippocampal projections to posterior auditory association cortex area Tpt in Old-World monkeys",
+      "year": "1988",
+      "authors": [
+        "Tranel"
+      ],
+      "journal": "Experimental Brain Research",
+      "doi": "10.1007/BF00248365",
+      "pmid": "3384041"
+    },
+    {
+      "citation_id": "gannon_2008",
+      "title": "Leftward interhemispheric asymmetry of macaque monkey temporal lobe language area homolog is evident at the cytoarchitectural but not gross anatomic level",
+      "year": "2008",
+      "authors": [
+        "Gannon"
+      ],
+      "journal": "Brain Research",
+      "doi": "10.1016/j.brainres.2007.12.041",
+      "pmid": "18262172"
     }
   ]
 }
