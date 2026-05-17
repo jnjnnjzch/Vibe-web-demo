@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>D99 Atlas · Macaque Brain Atlas</title>
+  <link rel="stylesheet" href="./styles.css" />
+  <script type="importmap">
+    {
+      "imports": {
+        "three": "https://cdn.jsdelivr.net/npm/three@0.180.0/build/three.module.js",
+        "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.180.0/examples/jsm/"
+      }
+    }
+  </script>
+</head>
+<body>
+  <main class="atlas-shell">
+    <header class="hero">
+      <div>
+        <p class="eyebrow">D99 Atlas</p>
+        <h1 data-en="Explore the D99 macaque brain atlas." data-zh="探索 D99 猕猴脑图谱。">Explore the D99 macaque brain atlas.</h1>
+        <p id="dataset-status" class="dataset-status"></p>
+      </div>
+      <label class="languagebox">
+        <span data-en="Language" data-zh="语言">Language</span>
+        <select id="language">
+          <option value="en">EN</option>
+          <option value="zh">中文</option>
+        </select>
+      </label>
+      <label class="searchbox">
+        <span data-en="Search" data-zh="搜索">Search</span>
+        <input id="search" type="search" placeholder="V1, PMd, sgACC…" autocomplete="off" />
+      </label>
+    </header>
+
+    <section class="workspace">
+      <div class="stage">
+        <div id="viewer"></div>
+        <div id="slices"></div>
+      </div>
+      <aside class="sidebar">
+        <section class="panel" id="results-panel">
+          <h2 data-en="Regions" data-zh="区域">Regions</h2>
+          <div id="results" class="results"></div>
+        </section>
+        <section class="panel" id="detail-panel">
+          <h2 data-en="Detail" data-zh="详情">Detail</h2>
+          <div id="detail"></div>
+          <h3 class="knowledge-heading" data-en="Knowledge" data-zh="知识卡">Knowledge</h3>
+          <div id="papers"></div>
+        </section>
+      </aside>
+    </section>
+  </main>
+  <script type="module" src="./webgl-renderer.js"></script>
+  <script type="module" src="./app.js"></script>
+</body>
+</html>

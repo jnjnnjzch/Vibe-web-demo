@@ -1,0 +1,22 @@
+# Ignore everything by default. This repository publishes only the browser
+# runtime needed by GitHub Pages; the rest of the local workspace stays local.
+*
+
+# Keep the Git publishing rules themselves.
+!.gitignore
+!.nojekyll
+!index.html
+
+# Browser runtime.
+!src/
+!src/**
+!data/
+!data/web/
+!data/web/**
+!data/literature/
+!data/literature/**
+!public/
+!public/**
+
+# Local-only noise / authoring workspace remain ignored by the default rule:
+# scripts/, tests/, literature/source/, upstream/, PLAN.md, README.md, etc.

@@ -1,0 +1,3435 @@
+[
+  {
+    "entry_id": "d99v2:1",
+    "alias": "pu",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:2",
+    "alias": "cd",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:3",
+    "alias": "NA",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:4",
+    "alias": "GPe",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:5",
+    "alias": "GPi",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:6",
+    "alias": "SNpr",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:7",
+    "alias": "SNpc",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:8",
+    "alias": "SNpl",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:9",
+    "alias": "STN",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:10",
+    "alias": "VP",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:11",
+    "alias": "AV",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:12",
+    "alias": "AM",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:13",
+    "alias": "VApc",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:14",
+    "alias": "VAmc",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:15",
+    "alias": "LD",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:16",
+    "alias": "MDmc",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:17",
+    "alias": "MDpc",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:18",
+    "alias": "MDmf",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:19",
+    "alias": "VLc",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:20",
+    "alias": "VLo",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:21",
+    "alias": "VPI",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:22",
+    "alias": "VPM",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:23",
+    "alias": "VPMpc",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:24",
+    "alias": "cnMD",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:25",
+    "alias": "Pf",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:26",
+    "alias": "LP",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:27",
+    "alias": "VPLc",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:28",
+    "alias": "PM",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:29",
+    "alias": "PL",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:30",
+    "alias": "PI",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:31",
+    "alias": "MDdc",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:32",
+    "alias": "LGN",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:34",
+    "alias": "Hl",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:35",
+    "alias": "Hm",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:36",
+    "alias": "r",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:37",
+    "alias": "zic",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:38",
+    "alias": "Pa",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:39",
+    "alias": "MMN",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:40",
+    "alias": "LMN",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:41",
+    "alias": "RNpc",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:42",
+    "alias": "3rd",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:43",
+    "alias": "4th",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:44",
+    "alias": "SC",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:45",
+    "alias": "IC",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:46",
+    "alias": "5th",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:47",
+    "alias": "6th",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:48",
+    "alias": "7th",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:49",
+    "alias": "vn",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:50",
+    "alias": "stn",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:51",
+    "alias": "ion",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:52",
+    "alias": "soc",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:53",
+    "alias": "chn",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:54",
+    "alias": "12th",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:55",
+    "alias": "denv_10 ",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:56",
+    "alias": "sn",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:57",
+    "alias": "np",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:58",
+    "alias": "gn",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:59",
+    "alias": "cn",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:60",
+    "alias": "lcn",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:61",
+    "alias": "DN",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:62",
+    "alias": "AIN",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:63",
+    "alias": "PIN",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:64",
+    "alias": "FN",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:66",
+    "alias": "ac",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:67",
+    "alias": "OC",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:68",
+    "alias": "ot",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:69",
+    "alias": "fr",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:70",
+    "alias": "SNpm",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:103",
+    "alias": "VLps",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:104",
+    "alias": "csl",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:105",
+    "alias": "cl",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:106",
+    "alias": "cim",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:107",
+    "alias": "Re",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:108",
+    "alias": "I",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:109",
+    "alias": "II",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:110",
+    "alias": "III",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:111",
+    "alias": "IV",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:112",
+    "alias": "V",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:113",
+    "alias": "VI",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:114",
+    "alias": "VII",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:115",
+    "alias": "VIII",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:116",
+    "alias": "IX",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:117",
+    "alias": "X",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:118",
+    "alias": "Par_p",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:119",
+    "alias": "Par_a",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:120",
+    "alias": "Cr_II",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:121",
+    "alias": "Cr_I",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:122",
+    "alias": "RNmc",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:123",
+    "alias": "lPFl",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:125",
+    "alias": "Fl",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:126",
+    "alias": "Sm",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:127",
+    "alias": "pt",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:128",
+    "alias": "AD",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:129",
+    "alias": "pcn",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:130",
+    "alias": "clc",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:131",
+    "alias": "Re",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:132",
+    "alias": "Pulo",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:133",
+    "alias": "PAG",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:134",
+    "alias": "bsc",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:135",
+    "alias": "ptg",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:136",
+    "alias": "Sg",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:137",
+    "alias": "f",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:138",
+    "alias": "inc",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:139",
+    "alias": "nd",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:140",
+    "alias": "IPN",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:142",
+    "alias": "VTA",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:143",
+    "alias": "VPLo",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:144",
+    "alias": "mlf",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:145",
+    "alias": "SCPX",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:147",
+    "alias": "gf",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:148",
+    "alias": "ml",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:149",
+    "alias": "tb",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:151",
+    "alias": "pcf_sd",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:152",
+    "alias": "cf",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:153",
+    "alias": "SCP",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:154",
+    "alias": "pc",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:157",
+    "alias": "ic_CP_CST_CBT",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:159",
+    "alias": "PN",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:160",
+    "alias": "POA",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:161",
+    "alias": "PVN",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:162",
+    "alias": "SON",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:163",
+    "alias": "SCN",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:164",
+    "alias": "DM",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:165",
+    "alias": "VM",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:166",
+    "alias": "LT",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:167",
+    "alias": "Arh",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:168",
+    "alias": "SONt",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:170",
+    "alias": "PMN",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:171",
+    "alias": "H2",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:175",
+    "alias": "iml",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:176",
+    "alias": "cir",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:177",
+    "alias": "MR",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:178",
+    "alias": "NRTP",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:179",
+    "alias": "RMTg",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:180",
+    "alias": "vnll",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:181",
+    "alias": "dnll",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:182",
+    "alias": "bic",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:183",
+    "alias": "nbic",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:184",
+    "alias": "pbgn",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:185",
+    "alias": "ll",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:186",
+    "alias": "riMLF",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:188",
+    "alias": "S4",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:189",
+    "alias": "ldtn",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:190",
+    "alias": "MTT",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:191",
+    "alias": "SMN",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:192",
+    "alias": "PeMN",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:193",
+    "alias": "TCA",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:194",
+    "alias": "TMN",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:195",
+    "alias": "PHN",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:196",
+    "alias": "BSTM",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:197",
+    "alias": "BSTLcn",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:198",
+    "alias": "BSTP",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:199",
+    "alias": "BSTD",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:200",
+    "alias": "BSTLc",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:201",
+    "alias": "BSTLj",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:202",
+    "alias": "Ch2",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:203",
+    "alias": "Ch3",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:204",
+    "alias": "Ch4_al",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:205",
+    "alias": "Ch4_am",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:206",
+    "alias": "Ch4_id",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:207",
+    "alias": "Ch4_iv",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:208",
+    "alias": "Ch4_p",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:209",
+    "alias": "Ch1",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:210",
+    "alias": "OT",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:211",
+    "alias": "mb",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:212",
+    "alias": "H2",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:213",
+    "alias": "H1",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:215",
+    "alias": "lf_al",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:216",
+    "alias": "ICP",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:217",
+    "alias": "MCP",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:218",
+    "alias": "lc",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:219",
+    "alias": "MC5_t",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:220",
+    "alias": "MC5_nu",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:221",
+    "alias": "PBN",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:222",
+    "alias": "Sim_a",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:223",
+    "alias": "Sim_p",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:224",
+    "alias": "dPFl",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:225",
+    "alias": "vPFl",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:226",
+    "alias": "DR",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:227",
+    "alias": "DTg",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:228",
+    "alias": "cif",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:229",
+    "alias": "cdc",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:230",
+    "alias": "AN",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:231",
+    "alias": "stt",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:232",
+    "alias": "lrn",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:300",
+    "alias": "8Bm",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:301",
+    "alias": "11l",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:302",
+    "alias": "CE",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:303",
+    "alias": "14r",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:304",
+    "alias": "v23a",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:305",
+    "alias": "Ia",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:306",
+    "alias": "13b",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:307",
+    "alias": "Ld",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:308",
+    "alias": "36c",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:309",
+    "alias": "24a_prime",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:311",
+    "alias": "AAA",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:312",
+    "alias": "10mc",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:313",
+    "alias": "CPB",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:314",
+    "alias": "area_29",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:315",
+    "alias": "v23b",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:316",
+    "alias": "13l",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:317",
+    "alias": "CA1",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:318",
+    "alias": "V4",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:319",
+    "alias": "Lv",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:321",
+    "alias": "area_31",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:322",
+    "alias": "Ig",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:323",
+    "alias": "ML",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:324",
+    "alias": "COa",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:325",
+    "alias": "23a",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:326",
+    "alias": "ER",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:327",
+    "alias": "10o",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:328",
+    "alias": "VIP",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:329",
+    "alias": "LIPv",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:330",
+    "alias": "8Bs",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:331",
+    "alias": "ABmc",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:332",
+    "alias": "V1",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:333",
+    "alias": "G",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:335",
+    "alias": "9d",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:336",
+    "alias": "7op",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:337",
+    "alias": "V4t",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:339",
+    "alias": "46f",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:340",
+    "alias": "Bi",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:341",
+    "alias": "5_(PE)",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:342",
+    "alias": "TEav",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:343",
+    "alias": "area_32",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:344",
+    "alias": "AL",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:345",
+    "alias": "10mr",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:346",
+    "alias": "COp",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:347",
+    "alias": "24b",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:348",
+    "alias": "area_1-2",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:349",
+    "alias": "8Av",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:350",
+    "alias": "ECL",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:351",
+    "alias": "FST",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:352",
+    "alias": "preS",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:353",
+    "alias": "12m",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:354",
+    "alias": "V6Av",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:355",
+    "alias": "8Bd",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:356",
+    "alias": "ABpc",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:357",
+    "alias": "TGvd",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:358",
+    "alias": "V3d",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:359",
+    "alias": "F1_(4)",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:360",
+    "alias": "Iam",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:361",
+    "alias": "SII",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:362",
+    "alias": "23b",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:363",
+    "alias": "13m",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:364",
+    "alias": "9m",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:365",
+    "alias": "EI",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:366",
+    "alias": "RPB",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:367",
+    "alias": "13a",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:368",
+    "alias": "AONd/m",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:369",
+    "alias": "F3",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:370",
+    "alias": "R",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:371",
+    "alias": "V6",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:372",
+    "alias": "TFO",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:373",
+    "alias": "V4v",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:374",
+    "alias": "46v",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:375",
+    "alias": "5_(PEc)",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:376",
+    "alias": "TGdd",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:377",
+    "alias": "area_35",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:378",
+    "alias": "A1",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:379",
+    "alias": "Ial",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:380",
+    "alias": "7m",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:381",
+    "alias": "Sub",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:382",
+    "alias": "v23b_question",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:383",
+    "alias": "23c",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:384",
+    "alias": "EC",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:385",
+    "alias": "Id",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:386",
+    "alias": "CA2",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:387",
+    "alias": "MIP",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:388",
+    "alias": "PIP",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:389",
+    "alias": "7b_(PFG/PF)",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:390",
+    "alias": "TEpd",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:391",
+    "alias": "V3v",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:392",
+    "alias": "area_44",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:393",
+    "alias": "MT",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:394",
+    "alias": "TEm",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:395",
+    "alias": "Tpt",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:396",
+    "alias": "24c",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:397",
+    "alias": "MST",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:398",
+    "alias": "RM",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:399",
+    "alias": "STGr",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:400",
+    "alias": "Pi",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:401",
+    "alias": "F6",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:404",
+    "alias": "DP",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:405",
+    "alias": "12r",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:406",
+    "alias": "PrCO",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:407",
+    "alias": "PEci",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:408",
+    "alias": "TGdg",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:409",
+    "alias": "AIP",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:410",
+    "alias": "36p",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:411",
+    "alias": "LOP",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:412",
+    "alias": "11m",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:413",
+    "alias": "RTp",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:414",
+    "alias": "AONl",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:415",
+    "alias": "area_25",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:416",
+    "alias": "Pir",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:417",
+    "alias": "Iapm",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:418",
+    "alias": "RT",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:419",
+    "alias": "7a_(Opt/PG)",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:420",
+    "alias": "TEpv",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:421",
+    "alias": "V3A",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:422",
+    "alias": "45a",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:423",
+    "alias": "TEO",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:424",
+    "alias": "F7",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:425",
+    "alias": "46d",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:426",
+    "alias": "Iai",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:427",
+    "alias": "F5_(6Va/6Vb)",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:428",
+    "alias": "LIPd",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:429",
+    "alias": "V2",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:430",
+    "alias": "36r",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:431",
+    "alias": "12l",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:432",
+    "alias": "5_(PEa)",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:433",
+    "alias": "TGsts",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:434",
+    "alias": "RTM",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:435",
+    "alias": "3a/b",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:436",
+    "alias": "ME",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:437",
+    "alias": "AHA",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:438",
+    "alias": "TGa",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:439",
+    "alias": "V6Ad",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:440",
+    "alias": "TF",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:441",
+    "alias": "45b",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:442",
+    "alias": "TEad",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:443",
+    "alias": "PGa",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:444",
+    "alias": "F4",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:445",
+    "alias": "Bmc",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:446",
+    "alias": "8Ad",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:447",
+    "alias": "RTL",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:448",
+    "alias": "12o",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:449",
+    "alias": "CM",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:450",
+    "alias": "TAa",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:451",
+    "alias": "F2_(6DR/6DC)",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:452",
+    "alias": "TGvg",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:453",
+    "alias": "CL",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:455",
+    "alias": "paraS",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:457",
+    "alias": "TPO",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:458",
+    "alias": "TEa",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:463",
+    "alias": "IPa",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:464",
+    "alias": "ELr",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:466",
+    "alias": "Bpc",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:467",
+    "alias": "ELc",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:470",
+    "alias": "V2_question",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:472",
+    "alias": "V2_or_v23b_question",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:474",
+    "alias": "cla",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:477",
+    "alias": "PL_prime",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:478",
+    "alias": "NLOT",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:479",
+    "alias": "PAC3",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:480",
+    "alias": "PACs",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:482",
+    "alias": "area_30",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:483",
+    "alias": "24b_prime",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:484",
+    "alias": "24a",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:485",
+    "alias": "24c_prime",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:486",
+    "alias": "14c",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:487",
+    "alias": "proS",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:488",
+    "alias": "CA3",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:489",
+    "alias": "CA4",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:490",
+    "alias": "FD",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:491",
+    "alias": "TTv",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:492",
+    "alias": "EO",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:493",
+    "alias": "TH",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:508",
+    "alias": "PACo/Pir",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:509",
+    "alias": "PAC2",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:510",
+    "alias": "MGv",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:511",
+    "alias": "MGad",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:512",
+    "alias": "MGm",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:513",
+    "alias": "MGz",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:514",
+    "alias": "MGpd",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:516",
+    "alias": "Iapl",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:522",
+    "alias": "Ri",
+    "relation_type": "official_label",
+    "confidence": "high",
+    "ambiguity_note": "Official D99 atlas label.",
+    "evidence": "D99v2",
+    "source_relation_type": "official_label"
+  },
+  {
+    "entry_id": "d99v2:451",
+    "alias": "PMd-c",
+    "relation_type": "close_relation",
+    "confidence": "high",
+    "ambiguity_note": "Use PMd-c/cPMd when boundary precision matters; plain PMd is broader.",
+    "evidence": "F2 is the caudal architectonic subdivision of macaque dorsal premotor cortex.",
+    "strong_source": "Luppino2003",
+    "support_source": "Ferraina2005",
+    "source_relation_type": "near_synonym"
+  },
+  {
+    "entry_id": "d99v2:451",
+    "alias": "PMd",
+    "relation_type": "broader_term",
+    "confidence": "high",
+    "ambiguity_note": "Search alias only; not an exact parcel match.",
+    "evidence": "PMd includes both F2 and F7.",
+    "strong_source": "Luppino2003",
+    "support_source": "Ferraina2005",
+    "source_relation_type": "broader_term"
+  },
+  {
+    "entry_id": "d99v2:369",
+    "alias": "SMA-proper",
+    "relation_type": "close_relation",
+    "confidence": "high",
+    "ambiguity_note": "Operationally close, but preserve atlas label.",
+    "evidence": "F3 is commonly paired with SMA-proper in macaque motor maps.",
+    "strong_source": "Luppino2003",
+    "support_source": "Matelli1991",
+    "source_relation_type": "near_synonym"
+  },
+  {
+    "entry_id": "d99v2:444",
+    "alias": "PMv-c",
+    "relation_type": "close_relation",
+    "confidence": "high",
+    "ambiguity_note": "Prefer PMv-c when subdivision matters; plain PMv is broader.",
+    "evidence": "F4 is the caudal ventral premotor subdivision.",
+    "strong_source": "Fang2005",
+    "support_source": "Matelli1991",
+    "source_relation_type": "near_synonym"
+  },
+  {
+    "entry_id": "d99v2:444",
+    "alias": "PMv",
+    "relation_type": "broader_term",
+    "confidence": "high",
+    "ambiguity_note": "Search alias only; not an exact parcel match.",
+    "evidence": "PMv includes rostral and caudal subdivisions.",
+    "strong_source": "Fang2005",
+    "support_source": "Matelli1991",
+    "source_relation_type": "broader_term"
+  },
+  {
+    "entry_id": "d99v2:427",
+    "alias": "PMv-r",
+    "relation_type": "close_relation",
+    "confidence": "high",
+    "ambiguity_note": "Prefer PMv-r when subdivision matters; plain PMv is broader.",
+    "evidence": "F5 is the rostral ventral premotor subdivision.",
+    "strong_source": "Fang2005",
+    "support_source": "Matelli1991",
+    "source_relation_type": "near_synonym"
+  },
+  {
+    "entry_id": "d99v2:427",
+    "alias": "PMv",
+    "relation_type": "broader_term",
+    "confidence": "high",
+    "ambiguity_note": "Search alias only; not an exact parcel match.",
+    "evidence": "PMv includes rostral and caudal subdivisions.",
+    "strong_source": "Fang2005",
+    "support_source": "Matelli1991",
+    "source_relation_type": "broader_term"
+  },
+  {
+    "entry_id": "d99v2:401",
+    "alias": "preSMA",
+    "relation_type": "close_relation",
+    "confidence": "high",
+    "ambiguity_note": "Retain F6 in atlas-facing contexts.",
+    "evidence": "F6 is commonly identified with macaque pre-supplementary motor area.",
+    "strong_source": "Luppino2003",
+    "support_source": "Fang2005",
+    "source_relation_type": "near_synonym"
+  },
+  {
+    "entry_id": "d99v2:424",
+    "alias": "PMd-r",
+    "relation_type": "close_relation",
+    "confidence": "high",
+    "ambiguity_note": "Use PMd-r/rPMd when boundary precision matters; plain PMd is broader.",
+    "evidence": "F7 is the rostral architectonic subdivision of macaque dorsal premotor cortex.",
+    "strong_source": "Luppino2003",
+    "support_source": "Ferraina2005",
+    "source_relation_type": "near_synonym"
+  },
+  {
+    "entry_id": "d99v2:424",
+    "alias": "PMd",
+    "relation_type": "broader_term",
+    "confidence": "high",
+    "ambiguity_note": "Search alias only; not an exact parcel match.",
+    "evidence": "PMd includes both F2 and F7.",
+    "strong_source": "Luppino2003",
+    "support_source": "Ferraina2005",
+    "source_relation_type": "broader_term"
+  },
+  {
+    "entry_id": "d99v2:415",
+    "alias": "sgACC",
+    "relation_type": "broader_term",
+    "confidence": "medium",
+    "ambiguity_note": "Useful search term, but do not collapse sgACC onto area 25 as an exact synonym.",
+    "evidence": "Area 25 sits within the subgenual cingulate territory, while sgACC is often used for a broader functional-anatomical zone.",
+    "strong_source": "An2000",
+    "support_source": "Cho2020",
+    "source_relation_type": "broader_term"
+  }
+]

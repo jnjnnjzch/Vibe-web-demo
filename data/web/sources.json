@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "source_id": "official-d99-labels",
+      "title": "Official D99 v2.0 label table",
+      "source_type": "atlas_label_table",
+      "is_authoritative": true,
+      "generation_method": "reviews/d99-literature-nomenclature/source/D99_v2.0_labels_semicolon.txt",
+      "license_status": "upstream-distribution"
+    },
+    {
+      "source_id": "literature-nomenclature-review",
+      "title": "Local D99 literature nomenclature review",
+      "source_type": "curated_annotation",
+      "is_authoritative": false,
+      "generation_method": "reviews/d99-literature-nomenclature/d99_aliases.csv",
+      "license_status": "local-review-artifact"
+    },
+    {
+      "source_id": "official-d99-volume",
+      "title": "Official D99 atlas volume",
+      "source_type": "atlas_volume",
+      "is_authoritative": true,
+      "generation_method": "locally supplied official atlas volume",
+      "license_status": "upstream-distribution",
+      "sha256": "310538afbe5c9e223b191e12b17b2fe7401bc1c720de65cd29d0c2aa4ad47880"
+    },
+    {
+      "source_id": "official-d99-anatomy",
+      "title": "Structural anatomy volume aligned to official D99 atlas",
+      "source_type": "anatomy_volume",
+      "is_authoritative": true,
+      "generation_method": "locally supplied aligned anatomy volume",
+      "license_status": "upstream-distribution",
+      "sha256": "ec349b58561c8e95c4e89799a05df5ded395fb1380ccb2a23531ab748ea1e0c4"
+    },
+    {
+      "source_id": "official-asset-pipeline",
+      "title": "Official-volume web asset derivation",
+      "source_type": "derived_manifest",
+      "is_authoritative": false,
+      "generation_method": "scripts/build_official_assets.py",
+      "license_status": "project-authored"
+    }
+  ]
+}

@@ -1,0 +1,1500 @@
+{
+  "items": [
+    {
+      "citation_id": "hubel_wiesel_1968",
+      "title": "Receptive fields and functional architecture of monkey striate cortex",
+      "year": "1968",
+      "authors": [
+        "Hubel"
+      ],
+      "journal": "Journal of Physiology",
+      "doi": "10.1113/jphysiol.1968.sp008455",
+      "pmid": "4966457"
+    },
+    {
+      "citation_id": "felleman_vanessen_1991",
+      "title": "Distributed hierarchical processing in the primate cerebral cortex",
+      "year": "1991",
+      "authors": [
+        "Felleman"
+      ],
+      "journal": "Cerebral Cortex",
+      "doi": "10.1093/cercor/1.1.1",
+      "pmid": "1822724"
+    },
+    {
+      "citation_id": "shipp_zeki_1989",
+      "title": "The organization of connections between areas V5 and V1 in macaque monkey visual cortex",
+      "year": "1989",
+      "authors": [
+        "Shipp"
+      ],
+      "journal": "European Journal of Neuroscience",
+      "doi": "10.1111/j.1460-9568.1989.tb00798.x",
+      "pmid": "12106142"
+    },
+    {
+      "citation_id": "maunsell_vanessen_1983",
+      "title": "The connections of the middle temporal visual area (MT) and their relationship to a cortical hierarchy in the macaque monkey",
+      "year": "1983",
+      "authors": [
+        "Maunsell"
+      ],
+      "journal": "Journal of Neuroscience",
+      "doi": "10.1523/JNEUROSCI.03-12-02563.1983",
+      "pmid": "6655500"
+    },
+    {
+      "citation_id": "ungerleider_mishkin_1982",
+      "title": "Two cortical visual systems",
+      "year": "1982",
+      "authors": [
+        "Ungerleider"
+      ],
+      "journal": "Analysis of Visual Behavior",
+      "doi": "",
+      "pmid": ""
+    },
+    {
+      "citation_id": "georgopoulos_1982",
+      "title": "On the relations between the direction of two-dimensional arm movements and cell discharge in primate motor cortex",
+      "year": "1982",
+      "authors": [
+        "Georgopoulos"
+      ],
+      "journal": "Journal of Neuroscience",
+      "doi": "10.1523/JNEUROSCI.02-11-01527.1982",
+      "pmid": "7143039"
+    },
+    {
+      "citation_id": "rizzolatti_luppino_2001",
+      "title": "The cortical motor system",
+      "year": "2001",
+      "authors": [
+        "Rizzolatti"
+      ],
+      "journal": "Neuron",
+      "doi": "10.1016/S0896-6273(01)00538-1",
+      "pmid": "11779463"
+    },
+    {
+      "citation_id": "matelli_luppino_1996",
+      "title": "Thalamo-cortical circuits subserving motor and cognitive functions in the primate brain",
+      "year": "1996",
+      "authors": [
+        "Matelli"
+      ],
+      "journal": "Experimental Brain Research",
+      "doi": "10.1007/BF00227261",
+      "pmid": "8917828"
+    },
+    {
+      "citation_id": "goldman_rakic_1987",
+      "title": "Circuitry of primate prefrontal cortex and regulation of behavior by representational memory",
+      "year": "1987",
+      "authors": [
+        "Goldman-Rakic"
+      ],
+      "journal": "Handbook of Physiology",
+      "doi": "",
+      "pmid": ""
+    },
+    {
+      "citation_id": "petrides_pandya_1999",
+      "title": "Dorsolateral prefrontal cortex: comparative cytoarchitectonic analysis in the human and the macaque brain and corticocortical connection patterns",
+      "year": "1999",
+      "authors": [
+        "Petrides"
+      ],
+      "journal": "European Journal of Neuroscience",
+      "doi": "10.1046/j.1460-9568.1999.00518.x",
+      "pmid": "10510138"
+    },
+    {
+      "citation_id": "barbas_2000",
+      "title": "Connections underlying the synthesis of cognition, memory, and emotion in primate prefrontal cortices",
+      "year": "2000",
+      "authors": [
+        "Barbas"
+      ],
+      "journal": "Brain Research Bulletin",
+      "doi": "10.1016/S0361-9230(99)00245-2",
+      "pmid": "10779082"
+    },
+    {
+      "citation_id": "vogt_2009",
+      "title": "Cingulate neurobiology and disease",
+      "year": "2009",
+      "authors": [
+        "Vogt"
+      ],
+      "journal": "Oxford University Press",
+      "doi": "",
+      "pmid": ""
+    },
+    {
+      "citation_id": "devinsky_1995",
+      "title": "Contributions of anterior cingulate cortex to behaviour",
+      "year": "1995",
+      "authors": [
+        "Devinsky"
+      ],
+      "journal": "Brain",
+      "doi": "10.1093/brain/118.1.279",
+      "pmid": "7895011"
+    },
+    {
+      "citation_id": "parvizi_2006",
+      "title": "Neural systems for behavioral regulation and their disorders",
+      "year": "2006",
+      "authors": [
+        "Parvizi"
+      ],
+      "journal": "Brain Research Reviews",
+      "doi": "10.1016/j.brainresrev.2006.04.001",
+      "pmid": "16828960"
+    },
+    {
+      "citation_id": "amarante_2007",
+      "title": "The amygdala and the primate brain",
+      "year": "2007",
+      "authors": [
+        "Amaral"
+      ],
+      "journal": "The Amygdala",
+      "doi": "",
+      "pmid": ""
+    },
+    {
+      "citation_id": "ghashghaei_2007",
+      "title": "Sequence of information processing for emotions based on the anatomic dialogue between prefrontal cortex and amygdala",
+      "year": "2007",
+      "authors": [
+        "Ghashghaei"
+      ],
+      "journal": "NeuroImage",
+      "doi": "10.1016/j.neuroimage.2007.02.046",
+      "pmid": "17502171"
+    },
+    {
+      "citation_id": "squire_1992",
+      "title": "Memory and the hippocampus: a synthesis from findings with rats, monkeys, and humans",
+      "year": "1992",
+      "authors": [
+        "Squire"
+      ],
+      "journal": "Psychological Review",
+      "doi": "10.1037/0033-295X.99.2.195",
+      "pmid": "1594723"
+    },
+    {
+      "citation_id": "suzuki_1994",
+      "title": "The anatomy of memory",
+      "year": "1994",
+      "authors": [
+        "Suzuki"
+      ],
+      "journal": "Annual Review of Neuroscience",
+      "doi": "10.1146/annurev.ne.17.030194.001345",
+      "pmid": "8210179"
+    },
+    {
+      "citation_id": "haber_2003",
+      "title": "The primate basal ganglia: parallel and integrative networks",
+      "year": "2003",
+      "authors": [
+        "Haber"
+      ],
+      "journal": "Journal of Chemical Neuroanatomy",
+      "doi": "10.1016/S0891-0618(03)00046-1",
+      "pmid": "12843803"
+    },
+    {
+      "citation_id": "alexander_1986",
+      "title": "Parallel organization of functionally segregated circuits linking basal ganglia and cortex",
+      "year": "1986",
+      "authors": [
+        "Alexander"
+      ],
+      "journal": "Annual Review of Neuroscience",
+      "doi": "10.1146/annurev.ne.09.030186.001041",
+      "pmid": "3085570"
+    },
+    {
+      "citation_id": "parent_hazrati_1995",
+      "title": "Functional anatomy of the basal ganglia. I. The cortico-basal ganglia-thalamo-cortical loop",
+      "year": "1995",
+      "authors": [
+        "Parent"
+      ],
+      "journal": "Brain Research Reviews",
+      "doi": "10.1016/0165-0173(94)00007-C",
+      "pmid": "7550350"
+    },
+    {
+      "citation_id": "sherman_guillery_2002",
+      "title": "The role of the thalamus in the flow of information to the cortex",
+      "year": "2002",
+      "authors": [
+        "Sherman"
+      ],
+      "journal": "Philosophical Transactions B",
+      "doi": "10.1098/rstb.2002.1161",
+      "pmid": "12626004"
+    },
+    {
+      "citation_id": "jones_2007",
+      "title": "The Thalamus",
+      "year": "2007",
+      "authors": [
+        "Jones"
+      ],
+      "journal": "Cambridge University Press",
+      "doi": "",
+      "pmid": ""
+    },
+    {
+      "citation_id": "schmahmann_1997",
+      "title": "The cerebrocerebellar system",
+      "year": "1997",
+      "authors": [
+        "Schmahmann"
+      ],
+      "journal": "International Review of Neurobiology",
+      "doi": "10.1016/S0074-7742(08)60346-3",
+      "pmid": "9378603"
+    },
+    {
+      "citation_id": "strick_2009",
+      "title": "Cerebellum and nonmotor function",
+      "year": "2009",
+      "authors": [
+        "Strick"
+      ],
+      "journal": "Annual Review of Neuroscience",
+      "doi": "10.1146/annurev.neuro.31.060407.125606",
+      "pmid": "19555291"
+    },
+    {
+      "citation_id": "deyoe_vanessen_1985",
+      "title": "Segregation of efferent connections and receptive field properties in visual area V2 of the macaque",
+      "year": "1985",
+      "authors": [
+        "DeYoe",
+        "Van Essen"
+      ],
+      "journal": "Nature",
+      "doi": "10.1038/317058a0",
+      "pmid": "2412132"
+    },
+    {
+      "citation_id": "desimone_schein_1987",
+      "title": "Visual properties of neurons in area V4 of the macaque: sensitivity to stimulus form",
+      "year": "1987",
+      "authors": [
+        "Desimone",
+        "Schein"
+      ],
+      "journal": "Journal of Neurophysiology",
+      "doi": "10.1152/jn.1987.57.3.835",
+      "pmid": "3559704"
+    },
+    {
+      "citation_id": "ponce_2011",
+      "title": "Contributions of indirect pathways to visual response properties in macaque middle temporal area MT",
+      "year": "2011",
+      "authors": [
+        "Ponce",
+        "Hunter",
+        "Pack",
+        "Lomber",
+        "Born"
+      ],
+      "journal": "Journal of Neuroscience",
+      "doi": "10.1523/JNEUROSCI.5362-10.2011",
+      "pmid": "21389244"
+    },
+    {
+      "citation_id": "galletti_2001",
+      "title": "The cortical connections of area V6: an occipito-parietal network processing visual information",
+      "year": "2001",
+      "authors": [
+        "Galletti",
+        "Gamberini",
+        "Kutz",
+        "Fattori",
+        "Luppino",
+        "Matelli"
+      ],
+      "journal": "European Journal of Neuroscience",
+      "doi": "10.1046/j.0953-816x.2001.01538.x",
+      "pmid": "11328351"
+    },
+    {
+      "citation_id": "passarelli_2011",
+      "title": "Cortical connections of area V6Av in the macaque: a visual-input node to the eye/hand coordination system",
+      "year": "2011",
+      "authors": [
+        "Passarelli",
+        "Rosa",
+        "Gamberini",
+        "Bakola",
+        "Burman",
+        "Fattori",
+        "Galletti"
+      ],
+      "journal": "Journal of Neuroscience",
+      "doi": "10.1523/JNEUROSCI.4784-10.2011",
+      "pmid": "21289189"
+    },
+    {
+      "citation_id": "marzocchi_2008",
+      "title": "Reaching activity in parietal area V6A of macaque: eye influence on arm activity or retinocentric coding of reaching movements?",
+      "year": "2008",
+      "authors": [
+        "Marzocchi",
+        "Breveglieri",
+        "Galletti",
+        "Fattori"
+      ],
+      "journal": "European Journal of Neuroscience",
+      "doi": "10.1111/j.1460-9568.2008.06021.x",
+      "pmid": "18279330"
+    },
+    {
+      "citation_id": "marrocco_1976",
+      "title": "Sustained and transient cells in monkey lateral geniculate nucleus: conduction velocities and response properties",
+      "year": "1976",
+      "authors": [
+        "Marrocco"
+      ],
+      "journal": "Journal of Neurophysiology",
+      "doi": "10.1152/jn.1976.39.2.340",
+      "pmid": "815516"
+    },
+    {
+      "citation_id": "mcclurkin_marrocco_1984",
+      "title": "Visual cortical input alters spatial tuning in monkey lateral geniculate nucleus cells",
+      "year": "1984",
+      "authors": [
+        "McClurkin",
+        "Marrocco"
+      ],
+      "journal": "Journal of Physiology",
+      "doi": "10.1113/jphysiol.1984.sp015103",
+      "pmid": "6716281"
+    },
+    {
+      "citation_id": "adams_2000",
+      "title": "Visual cortical projections and chemoarchitecture of macaque monkey pulvinar",
+      "year": "2000",
+      "authors": [
+        "Adams",
+        "Hof",
+        "Gattass",
+        "Webster",
+        "Ungerleider"
+      ],
+      "journal": "Journal of Comparative Neurology",
+      "doi": "10.1002/(SICI)1096-9861(20000410)419:3<377::AID-CNE9>3.0.CO;2-E",
+      "pmid": "10723012"
+    },
+    {
+      "citation_id": "devito_1982",
+      "title": "An autoradiographic study of efferent connections of the globus pallidus in Macaca mulatta",
+      "year": "1982",
+      "authors": [
+        "DeVito",
+        "Anderson"
+      ],
+      "journal": "Experimental Brain Research",
+      "doi": "10.1007/BF00238104",
+      "pmid": "7067782"
+    },
+    {
+      "citation_id": "kita_1999",
+      "title": "Monkey globus pallidus external segment neurons projecting to the neostriatum",
+      "year": "1999",
+      "authors": [
+        "Kita",
+        "Tokuno",
+        "Nambu"
+      ],
+      "journal": "Neuroreport",
+      "doi": "10.1097/00001756-199905140-00014",
+      "pmid": "10380964"
+    },
+    {
+      "citation_id": "nambu_2000",
+      "title": "Excitatory cortical inputs to pallidal neurons via the subthalamic nucleus in the monkey",
+      "year": "2000",
+      "authors": [
+        "Nambu",
+        "Tokuno",
+        "Hamada",
+        "Kita",
+        "Imanishi",
+        "Akazawa",
+        "Ikeuchi",
+        "Hasegawa"
+      ],
+      "journal": "Journal of Neurophysiology",
+      "doi": "10.1152/jn.2000.84.1.289",
+      "pmid": "10899204"
+    },
+    {
+      "citation_id": "francois_1984",
+      "title": "Localization of nigrostriatal nigrothalamic and nigrotectal neurons in ventricular coordinates in macaques",
+      "year": "1984",
+      "authors": [
+        "Francois",
+        "Percheron",
+        "Yelnik"
+      ],
+      "journal": "Neuroscience",
+      "doi": "10.1016/0306-4522(84)90259-8",
+      "pmid": "6387531"
+    },
+    {
+      "citation_id": "francois_1999",
+      "title": "Dopaminergic cell group A8 in the monkey: anatomical organization and projections to the striatum",
+      "year": "1999",
+      "authors": [
+        "Francois",
+        "Yelnik",
+        "Tande",
+        "Agid",
+        "Hirsch"
+      ],
+      "journal": "Journal of Comparative Neurology",
+      "doi": "10.1002/(SICI)1096-9861(19991122)414:3<334::AID-CNE4>3.0.CO;2-X",
+      "pmid": "10516600"
+    },
+    {
+      "citation_id": "jayaraman_1977",
+      "title": "Nigrotectal projections in the monkey: an autoradiographic study",
+      "year": "1977",
+      "authors": [
+        "Jayaraman",
+        "Batton",
+        "Carpenter"
+      ],
+      "journal": "Brain Research",
+      "doi": "10.1016/0006-8993(77)91058-7",
+      "pmid": "410480"
+    },
+    {
+      "citation_id": "hedreen_delong_1991",
+      "title": "Organization of striatopallidal striatonigral and nigrostriatal projections in the macaque",
+      "year": "1991",
+      "authors": [
+        "Hedreen",
+        "DeLong"
+      ],
+      "journal": "Journal of Comparative Neurology",
+      "doi": "10.1002/cne.903040406",
+      "pmid": "2013650"
+    },
+    {
+      "citation_id": "nauta_cole_1978",
+      "title": "Efferent projections of the subthalamic nucleus: an autoradiographic study in monkey and cat",
+      "year": "1978",
+      "authors": [
+        "Nauta",
+        "Cole"
+      ],
+      "journal": "Journal of Comparative Neurology",
+      "doi": "10.1002/cne.901800102",
+      "pmid": "418083"
+    },
+    {
+      "citation_id": "nambu_1996",
+      "title": "Dual somatotopical representations in the primate subthalamic nucleus: evidence for ordered but reversed body-map transformations from the primary motor cortex and the supplementary motor area",
+      "year": "1996",
+      "authors": [
+        "Nambu",
+        "Takada",
+        "Inase",
+        "Tokuno"
+      ],
+      "journal": "Journal of Neuroscience",
+      "doi": "10.1523/JNEUROSCI.16-08-02671.1996",
+      "pmid": "8786443"
+    },
+    {
+      "citation_id": "haynes_haber_2013",
+      "title": "The organization of prefrontal-subthalamic inputs in primates provides an anatomical substrate for both functional specificity and integration: implications for basal ganglia models and deep brain stimulation",
+      "year": "2013",
+      "authors": [
+        "Haynes",
+        "Haber"
+      ],
+      "journal": "Journal of Neuroscience",
+      "doi": "10.1523/JNEUROSCI.4674-12.2013",
+      "pmid": "23486951"
+    },
+    {
+      "citation_id": "haber_lynd_1990",
+      "title": "Topographic organization of the ventral striatal efferent projections in the rhesus monkey: an anterograde tracing study",
+      "year": "1990",
+      "authors": [
+        "Haber",
+        "Lynd",
+        "Klein",
+        "Groenewegen"
+      ],
+      "journal": "Journal of Comparative Neurology",
+      "doi": "10.1002/cne.902930210",
+      "pmid": "19189717"
+    },
+    {
+      "citation_id": "fujimoto_2019",
+      "title": "Signaling Incentive and Drive in the Primate Ventral Pallidum for Motivational Control of Goal-Directed Action",
+      "year": "2019",
+      "authors": [
+        "Fujimoto",
+        "Hori",
+        "Nagai"
+      ],
+      "journal": "Journal of Neuroscience",
+      "doi": "10.1523/JNEUROSCI.2399-18.2018",
+      "pmid": "30626695"
+    },
+    {
+      "citation_id": "russchen_1985",
+      "title": "The amygdalostriatal projections in the monkey. An anterograde tracing study",
+      "year": "1985",
+      "authors": [
+        "Russchen",
+        "Bakst",
+        "Amaral",
+        "Price"
+      ],
+      "journal": "Brain Research",
+      "doi": "10.1016/0006-8993(85)90530-X",
+      "pmid": ""
+    },
+    {
+      "citation_id": "fudge_2002",
+      "title": "Amygdaloid projections to ventromedial striatal subterritories in the primate",
+      "year": "2002",
+      "authors": [
+        "Fudge",
+        "Kunishio",
+        "Walsh",
+        "Richard",
+        "Haber"
+      ],
+      "journal": "Neuroscience",
+      "doi": "10.1016/S0306-4522(01)00546-2",
+      "pmid": "11958868"
+    },
+    {
+      "citation_id": "aggleton_2014",
+      "title": "The origin of projections from the posterior cingulate and retrosplenial cortices to the anterior medial dorsal and laterodorsal thalamic nuclei of macaque monkeys",
+      "year": "2014",
+      "authors": [
+        "Aggleton",
+        "Saunders",
+        "Wright",
+        "Vann"
+      ],
+      "journal": "European Journal of Neuroscience",
+      "doi": "10.1111/ejn.12389",
+      "pmid": "24134130"
+    },
+    {
+      "citation_id": "shibata_yukie_2003",
+      "title": "Differential thalamic connections of the posteroventral and dorsal posterior cingulate gyrus in the monkey",
+      "year": "2003",
+      "authors": [
+        "Shibata",
+        "Yukie"
+      ],
+      "journal": "European Journal of Neuroscience",
+      "doi": "10.1046/j.1460-9568.2003.02868.x",
+      "pmid": "14511340"
+    },
+    {
+      "citation_id": "preuss_goldmanrakic_1987",
+      "title": "Crossed corticothalamic and thalamocortical connections of macaque prefrontal cortex",
+      "year": "1987",
+      "authors": [
+        "Preuss",
+        "Goldman-Rakic"
+      ],
+      "journal": "Journal of Comparative Neurology",
+      "doi": "10.1002/cne.902570211",
+      "pmid": "3571529"
+    },
+    {
+      "citation_id": "ray_price_1993",
+      "title": "The organization of projections from the mediodorsal nucleus of the thalamus to orbital and medial prefrontal cortex in macaque monkeys",
+      "year": "1993",
+      "authors": [
+        "Ray",
+        "Price"
+      ],
+      "journal": "Journal of Comparative Neurology",
+      "doi": "10.1002/cne.903370102",
+      "pmid": "7506270"
+    },
+    {
+      "citation_id": "fenelon_1990",
+      "title": "Topographic distribution of pallidal neurons projecting to the thalamus in macaques",
+      "year": "1990",
+      "authors": [
+        "Fenelon",
+        "Francois",
+        "Percheron",
+        "Yelnik"
+      ],
+      "journal": "Brain Research",
+      "doi": "10.1016/0006-8993(90)91688-D",
+      "pmid": "1698504"
+    },
+    {
+      "citation_id": "anderson_turner_1991",
+      "title": "Activity of neurons in cerebellar-receiving and pallidal-receiving areas of the thalamus of the behaving monkey",
+      "year": "1991",
+      "authors": [
+        "Anderson",
+        "Turner"
+      ],
+      "journal": "Journal of Neurophysiology",
+      "doi": "10.1152/jn.1991.66.3.879",
+      "pmid": "1753292"
+    },
+    {
+      "citation_id": "ilinsky_kultas_1990",
+      "title": "Fine structure of the magnocellular subdivision of the ventral anterior thalamic nucleus (VAmc) of Macaca mulatta: I. Cell types and synaptology",
+      "year": "1990",
+      "authors": [
+        "Ilinsky",
+        "Kultas-Ilinsky"
+      ],
+      "journal": "Journal of Comparative Neurology",
+      "doi": "10.1002/cne.902940313",
+      "pmid": "2341621"
+    },
+    {
+      "citation_id": "nakano_1992",
+      "title": "An autoradiographic study of cortical projections from motor thalamic nuclei in the macaque monkey",
+      "year": "1992",
+      "authors": [
+        "Nakano",
+        "Tokushige",
+        "Kohno",
+        "Hasegawa",
+        "Kayahara",
+        "Sasaki"
+      ],
+      "journal": "Neuroscience Research",
+      "doi": "10.1016/0168-0102(92)90093-R",
+      "pmid": ""
+    },
+    {
+      "citation_id": "carpenter_1976",
+      "title": "Nigrothalamic projections in the monkey demonstrated by autoradiographic technics",
+      "year": "1976",
+      "authors": [
+        "Carpenter",
+        "Nakano",
+        "Kim"
+      ],
+      "journal": "Journal of Comparative Neurology",
+      "doi": "10.1002/cne.901650402",
+      "pmid": "57125"
+    },
+    {
+      "citation_id": "craig_2006",
+      "title": "Retrograde analyses of spinothalamic projections in the macaque monkey: input to ventral posterior nuclei",
+      "year": "2006",
+      "authors": [
+        "Craig"
+      ],
+      "journal": "Journal of Comparative Neurology",
+      "doi": "10.1002/cne.21154",
+      "pmid": "17072832"
+    },
+    {
+      "citation_id": "meng_angelaki_2010",
+      "title": "Responses of ventral posterior thalamus neurons to three-dimensional vestibular and optic flow stimulation",
+      "year": "2010",
+      "authors": [
+        "Meng",
+        "Angelaki"
+      ],
+      "journal": "Journal of Neurophysiology",
+      "doi": "10.1152/jn.00729.2009",
+      "pmid": "19955294"
+    },
+    {
+      "citation_id": "rausell_1998",
+      "title": "Extensive divergence and convergence in the thalamocortical projection to monkey somatosensory cortex",
+      "year": "1998",
+      "authors": [
+        "Rausell",
+        "Bickford",
+        "Manger",
+        "Woods",
+        "Jones"
+      ],
+      "journal": "Journal of Neuroscience",
+      "doi": "10.1523/JNEUROSCI.18-11-04216.1998",
+      "pmid": "9592100"
+    },
+    {
+      "citation_id": "qi_2011",
+      "title": "Cell-poor septa separate representations of digits in the ventroposterior nucleus of the thalamus in monkeys and prosimian galagos",
+      "year": "2011",
+      "authors": [
+        "Qi",
+        "Gharbawie",
+        "Wong",
+        "Kaas"
+      ],
+      "journal": "Journal of Comparative Neurology",
+      "doi": "10.1002/cne.22545",
+      "pmid": "21246552"
+    },
+    {
+      "citation_id": "pritchard_1989",
+      "title": "Neural coding of gustatory information in the thalamus of Macaca mulatta",
+      "year": "1989",
+      "authors": [
+        "Pritchard",
+        "Hamilton",
+        "Norgren"
+      ],
+      "journal": "Journal of Neurophysiology",
+      "doi": "10.1152/jn.1989.61.1.1",
+      "pmid": "2918337"
+    },
+    {
+      "citation_id": "pritchard_1986",
+      "title": "Projections of thalamic gustatory and lingual areas in the monkey, Macaca fascicularis",
+      "year": "1986",
+      "authors": [
+        "Pritchard",
+        "Hamilton",
+        "Morse",
+        "Norgren"
+      ],
+      "journal": "Journal of Comparative Neurology",
+      "doi": "",
+      "pmid": "3950095"
+    },
+    {
+      "citation_id": "fenelon_1991",
+      "title": "Topographic distribution of the neurons of the central complex (centre médian-parafascicular complex) and of other thalamic neurons projecting to the striatum in macaques",
+      "year": "1991",
+      "authors": [
+        "Fenelon",
+        "Francois",
+        "Percheron",
+        "Yelnik"
+      ],
+      "journal": "Neuroscience",
+      "doi": "",
+      "pmid": "1722293"
+    },
+    {
+      "citation_id": "matsumoto_2001",
+      "title": "Neurons in the thalamic CM-Pf complex supply striatal neurons with information about behaviorally significant sensory events",
+      "year": "2001",
+      "authors": [
+        "Matsumoto",
+        "Minamimoto",
+        "Graybiel",
+        "Kimura"
+      ],
+      "journal": "Journal of Neurophysiology",
+      "doi": "10.1152/jn.2001.85.2.960",
+      "pmid": "11160526"
+    },
+    {
+      "citation_id": "ito_craig_2008",
+      "title": "Striatal projections of the vagal-responsive region of the thalamic parafascicular nucleus in macaque monkeys",
+      "year": "2008",
+      "authors": [
+        "Ito",
+        "Craig"
+      ],
+      "journal": "Journal of Comparative Neurology",
+      "doi": "10.1002/cne.21513",
+      "pmid": "18022943"
+    },
+    {
+      "citation_id": "trojanowski_jacobson_1976",
+      "title": "Areal and laminar distribution of some pulvinar cortical efferents in rhesus monkey",
+      "year": "1976",
+      "authors": [
+        "Trojanowski",
+        "Jacobson"
+      ],
+      "journal": "Journal of Comparative Neurology",
+      "doi": "10.1002/cne.901690307",
+      "pmid": "823181"
+    },
+    {
+      "citation_id": "yeterian_pandya_1997",
+      "title": "Corticothalamic connections of extrastriate visual areas in rhesus monkeys",
+      "year": "1997",
+      "authors": [
+        "Yeterian",
+        "Pandya"
+      ],
+      "journal": "Journal of Comparative Neurology",
+      "doi": "",
+      "pmid": "9034911"
+    },
+    {
+      "citation_id": "burton_1984",
+      "title": "Corticothalamic connections from the second somatosensory area and neighboring regions in the lateral sulcus of macaque monkeys",
+      "year": "1984",
+      "authors": [
+        "Burton"
+      ],
+      "journal": "Brain Research",
+      "doi": "",
+      "pmid": "6478229"
+    },
+    {
+      "citation_id": "hatanaka_2003",
+      "title": "Thalamocortical and intracortical connections of monkey cingulate motor areas",
+      "year": "2003",
+      "authors": [
+        "Hatanaka",
+        "Tokuno",
+        "Hamada",
+        "Inase",
+        "Akazawa",
+        "Nambu",
+        "Takada"
+      ],
+      "journal": "Journal of Comparative Neurology",
+      "doi": "10.1002/cne.10720",
+      "pmid": "12761828"
+    },
+    {
+      "citation_id": "hsu_price_2009",
+      "title": "Paraventricular thalamic nucleus: subcortical connections and innervation by serotonin, orexin, and corticotropin-releasing hormone in macaque monkeys",
+      "year": "2009",
+      "authors": [
+        "Hsu",
+        "Price"
+      ],
+      "journal": "Journal of Comparative Neurology",
+      "doi": "10.1002/cne.21934",
+      "pmid": "19085970"
+    },
+    {
+      "citation_id": "matsumoto_hikosaka_2009",
+      "title": "Representation of negative motivational value in the primate lateral habenula",
+      "year": "2009",
+      "authors": [
+        "Matsumoto",
+        "Hikosaka"
+      ],
+      "journal": "Nature Neuroscience",
+      "doi": "10.1038/nn.2233",
+      "pmid": "19043410"
+    },
+    {
+      "citation_id": "hong_jhou_2011",
+      "title": "Negative reward signals from the lateral habenula to dopamine neurons are mediated by rostromedial tegmental nucleus in primates",
+      "year": "2011",
+      "authors": [
+        "Hong",
+        "Jhou",
+        "Smith",
+        "Saleem",
+        "Hikosaka"
+      ],
+      "journal": "Journal of Neuroscience",
+      "doi": "10.1523/JNEUROSCI.1384-11.2011",
+      "pmid": "21832176"
+    },
+    {
+      "citation_id": "hong_2019",
+      "title": "Predominant Striatal Input to the Lateral Habenula in Macaques Comes from Striosomes",
+      "year": "2019",
+      "authors": [
+        "Hong",
+        "Amemori",
+        "Chung",
+        "Gibson",
+        "Amemori",
+        "Graybiel"
+      ],
+      "journal": "Current Biology",
+      "doi": "10.1016/j.cub.2018.11.008",
+      "pmid": "30554903"
+    },
+    {
+      "citation_id": "bragg_2017",
+      "title": "Morphology of visual sector thalamic reticular neurons in the macaque monkey suggests retinotopically specialized parallel stream-mixed input to the lateral geniculate nucleus",
+      "year": "2017",
+      "authors": [
+        "Bragg",
+        "Fairless",
+        "Liu",
+        "Briggs"
+      ],
+      "journal": "Journal of Comparative Neurology",
+      "doi": "10.1002/cne.24134",
+      "pmid": "27778378"
+    },
+    {
+      "citation_id": "ogasawara_2022",
+      "title": "A primate temporal cortex-zona incerta pathway for novelty seeking",
+      "year": "2022",
+      "authors": [
+        "Ogasawara",
+        "Sogukpinar",
+        "Zhang",
+        "Feng",
+        "Pai",
+        "Jezzini",
+        "Monosov"
+      ],
+      "journal": "Nature Neuroscience",
+      "doi": "10.1038/s41593-021-00950-1",
+      "pmid": "34903880"
+    },
+    {
+      "citation_id": "zhou_2017",
+      "title": "Connections between the zona incerta and superior colliculus in the monkey and squirrel",
+      "year": "2017",
+      "authors": [
+        "Zhou",
+        "May",
+        "Mason",
+        "Hall",
+        "Ma"
+      ],
+      "journal": "Brain Structure and Function",
+      "doi": "10.1007/s00429-017-1503-2",
+      "pmid": "28852862"
+    },
+    {
+      "citation_id": "liu_2024",
+      "title": "State-specific Regulation of Electrical Stimulation in the Intralaminar Thalamus of Macaque Monkeys: Network and Transcriptional Insights into Arousal",
+      "year": "2024",
+      "authors": [
+        "Liu"
+      ],
+      "journal": "Advanced Science",
+      "doi": "",
+      "pmid": "38938001"
+    },
+    {
+      "citation_id": "glickstein_1994",
+      "title": "Visual pontocerebellar projections in the macaque",
+      "year": "1994",
+      "authors": [
+        "Glickstein",
+        "Gerrits",
+        "Kralj-Hans",
+        "Mercier",
+        "Stein",
+        "Voogd"
+      ],
+      "journal": "Journal of Comparative Neurology",
+      "doi": "10.1002/cne.903490105",
+      "pmid": "7852626"
+    },
+    {
+      "citation_id": "rambold_2002",
+      "title": "Partial ablations of the flocculus and ventral paraflocculus in monkeys cause linked deficits in smooth pursuit eye movements and adaptive modification of the VOR",
+      "year": "2002",
+      "authors": [
+        "Rambold",
+        "Churchland",
+        "Selig",
+        "Jasmin",
+        "Lisberger"
+      ],
+      "journal": "Journal of Neurophysiology",
+      "doi": "10.1152/jn.00768.2000",
+      "pmid": "11826056"
+    },
+    {
+      "citation_id": "may_1990",
+      "title": "Cerebellotectal pathways in the macaque: implications for collicular generation of saccades",
+      "year": "1990",
+      "authors": [
+        "May"
+      ],
+      "journal": "Neuroscience",
+      "doi": "10.1016/0306-4522(90)90428-7",
+      "pmid": "2215926"
+    },
+    {
+      "citation_id": "rivkees_lachowicz_1997",
+      "title": "Functional D1 and D5 dopamine receptors are expressed in the suprachiasmatic supraoptic and paraventricular nuclei of primates",
+      "year": "1997",
+      "authors": [
+        "Rivkees",
+        "Lachowicz"
+      ],
+      "journal": "Synapse",
+      "doi": "10.1002/(SICI)1098-2396(199705)26:1<1::AID-SYN1>3.0.CO;2-D",
+      "pmid": "9097400"
+    },
+    {
+      "citation_id": "satoh_1982",
+      "title": "Immunohistochemical identification of the oxytocin and vasopressin neurons in the hypothalamus of the monkey (Macaca fuscata)",
+      "year": "1982",
+      "authors": [
+        "Satoh"
+      ],
+      "journal": "Brain Research",
+      "doi": "",
+      "pmid": "7158807"
+    },
+    {
+      "citation_id": "bethea_1999",
+      "title": "The effects of estrogen and progesterone on corticotropin-releasing hormone and arginine vasopressin messenger ribonucleic acid levels in the paraventricular nucleus and supraoptic nucleus of the rhesus monkey",
+      "year": "1999",
+      "authors": [
+        "Bethea"
+      ],
+      "journal": "Endocrinology",
+      "doi": "",
+      "pmid": "10218971"
+    },
+    {
+      "citation_id": "pinato_2004",
+      "title": "Serotonin innervation of the primate suprachiasmatic nucleus",
+      "year": "2004",
+      "authors": [
+        "Pinato"
+      ],
+      "journal": "Journal of Comparative Neurology",
+      "doi": "",
+      "pmid": "15126131"
+    },
+    {
+      "citation_id": "alcin_2013",
+      "title": "Ovarian regulation of kisspeptin neurones in the arcuate nucleus of the rhesus monkey",
+      "year": "2013",
+      "authors": [
+        "Alcin"
+      ],
+      "journal": "Journal of Neuroendocrinology",
+      "doi": "10.1111/jne.12025",
+      "pmid": "23331967"
+    },
+    {
+      "citation_id": "eghlidi_2017",
+      "title": "Age-associated gene expression changes in the arcuate nucleus of male rhesus macaques",
+      "year": "2017",
+      "authors": [
+        "Eghlidi"
+      ],
+      "journal": "Journal of Molecular Endocrinology",
+      "doi": "10.1530/JME-17-0094",
+      "pmid": "28615280"
+    },
+    {
+      "citation_id": "roberts_2011",
+      "title": "Neuron numbers in the hypothalamus of the normal aging rhesus monkey: stability across the adult lifespan and between the sexes",
+      "year": "2011",
+      "authors": [
+        "Roberts"
+      ],
+      "journal": "Journal of Comparative Neurology",
+      "doi": "",
+      "pmid": "21935936"
+    },
+    {
+      "citation_id": "fudge_2001",
+      "title": "Monoaminergic innervation of the macaque extended amygdala",
+      "year": "2001",
+      "authors": [
+        "Fudge"
+      ],
+      "journal": "Neuroscience",
+      "doi": "10.1016/S0306-4522(01)00157-9",
+      "pmid": "11457591"
+    },
+    {
+      "citation_id": "oler_2017",
+      "title": "Connectivity between the central nucleus of the amygdala and the bed nucleus of the stria terminalis in the non-human primate: neuronal tract tracing and developmental neuroimaging studies",
+      "year": "2017",
+      "authors": [
+        "Oler"
+      ],
+      "journal": "Brain Structure and Function",
+      "doi": "10.1007/s00429-016-1198-9",
+      "pmid": "26908365"
+    },
+    {
+      "citation_id": "jacobs_2023",
+      "title": "Pharmacological Inactivation of the Bed Nucleus of the Stria Terminalis Increases Affiliative Social Behavior in Rhesus Macaques",
+      "year": "2023",
+      "authors": [
+        "Jacobs"
+      ],
+      "journal": "Journal of Neuroscience",
+      "doi": "10.1523/JNEUROSCI.2090-22.2023",
+      "pmid": "37012054"
+    },
+    {
+      "citation_id": "liu_2018",
+      "title": "Intermittent stimulation in the nucleus basalis of Meynert improves sustained attention in rhesus monkeys",
+      "year": "2018",
+      "authors": [
+        "Liu"
+      ],
+      "journal": "Current Biology",
+      "doi": "",
+      "pmid": "29704983"
+    },
+    {
+      "citation_id": "munoz_wurtz_1995",
+      "title": "Saccade-related activity in monkey superior colliculus. II. Spread of activity during saccades",
+      "year": "1995",
+      "authors": [
+        "Munoz",
+        "Wurtz"
+      ],
+      "journal": "Journal of Neurophysiology",
+      "doi": "10.1152/jn.1995.73.6.2334",
+      "pmid": "7666142"
+    },
+    {
+      "citation_id": "bulkin_groh_2011",
+      "title": "Systematic mapping of the monkey inferior colliculus reveals enhanced low frequency sound representation",
+      "year": "2011",
+      "authors": [
+        "Bulkin",
+        "Groh"
+      ],
+      "journal": "Journal of Neurophysiology",
+      "doi": "10.1152/jn.00857.2010",
+      "pmid": "21307328"
+    },
+    {
+      "citation_id": "amemori_2014",
+      "title": "Role of the primate ventral tegmental area in reinforcement and motivation",
+      "year": "2014",
+      "authors": [
+        "Amemori"
+      ],
+      "journal": "Current Biology",
+      "doi": "",
+      "pmid": "24881876"
+    },
+    {
+      "citation_id": "nakamura_2013",
+      "title": "Neurons in monkey dorsal raphe nucleus code beginning and progress of step-by-step schedule reward expectation and amount of reward outcome in the reward schedule task",
+      "year": "2013",
+      "authors": [
+        "Nakamura"
+      ],
+      "journal": "Journal of Neuroscience",
+      "doi": "",
+      "pmid": "23426675"
+    },
+    {
+      "citation_id": "hardy_1981",
+      "title": "Cortical projections to the periaqueductal gray in the monkey: a retrograde and orthograde horseradish peroxidase study",
+      "year": "1981",
+      "authors": [
+        "Hardy"
+      ],
+      "journal": "Brain Research",
+      "doi": "",
+      "pmid": "6164962"
+    },
+    {
+      "citation_id": "giolli_2001",
+      "title": "Cortical and subcortical afferents to the nucleus reticularis tegmenti pontis and basal pontine nuclei in the macaque monkey",
+      "year": "2001",
+      "authors": [
+        "Giolli"
+      ],
+      "journal": "Visual Neuroscience",
+      "doi": "10.1017/S0952523801185068",
+      "pmid": "11925008"
+    },
+    {
+      "citation_id": "takeichi_2005",
+      "title": "Discharge of monkey nucleus reticularis tegmenti pontis neurons changes during saccade adaptation",
+      "year": "2005",
+      "authors": [
+        "Takeichi"
+      ],
+      "journal": "Journal of Neurophysiology",
+      "doi": "10.1152/jn.00113.2005",
+      "pmid": "15917328"
+    },
+    {
+      "citation_id": "ghosh_maunsell_2024",
+      "title": "Locus coeruleus norepinephrine contributes to visual-spatial attention by selectively enhancing perceptual sensitivity",
+      "year": "2024",
+      "authors": [
+        "Ghosh",
+        "Maunsell"
+      ],
+      "journal": "Neuron",
+      "doi": "10.1016/j.neuron.2024.04.001",
+      "pmid": "38701788"
+    },
+    {
+      "citation_id": "mitani_1984",
+      "title": "Sizes laminar and topographic origins of cortical projections to the major divisions of the red nucleus in the monkey",
+      "year": "1984",
+      "authors": [
+        "Mitani"
+      ],
+      "journal": "Journal of Comparative Neurology",
+      "doi": "",
+      "pmid": "6725640"
+    },
+    {
+      "citation_id": "belhaj_said_1998",
+      "title": "Distribution and characteristics of poststimulus effects in proximal and distal forelimb muscles from red nucleus in the monkey",
+      "year": "1998",
+      "authors": [
+        "Belhaj-Said"
+      ],
+      "journal": "Journal of Neurophysiology",
+      "doi": "",
+      "pmid": "9535947"
+    },
+    {
+      "citation_id": "angelaki_2005",
+      "title": "Pursuit-vestibular interactions in brain stem neurons during rotation and translation",
+      "year": "2005",
+      "authors": [
+        "Angelaki"
+      ],
+      "journal": "Journal of Neurophysiology",
+      "doi": "",
+      "pmid": "15647394"
+    },
+    {
+      "citation_id": "kojima_2014",
+      "title": "Cerebellar fastigial nucleus influence on ipsilateral abducens activity during saccades",
+      "year": "2014",
+      "authors": [
+        "Kojima"
+      ],
+      "journal": "Journal of Neurophysiology",
+      "doi": "10.1152/jn.00567.2013",
+      "pmid": "24478158"
+    },
+    {
+      "citation_id": "mcandrew_2010",
+      "title": "Parabrachial nucleus neuronal responses to off-vertical axis rotation in macaques",
+      "year": "2010",
+      "authors": [
+        "McAndrew"
+      ],
+      "journal": "Experimental Brain Research",
+      "doi": "",
+      "pmid": "20039027"
+    },
+    {
+      "citation_id": "gray_2014",
+      "title": "Age-related neurochemical changes in the rhesus macaque cochlear nucleus",
+      "year": "2014",
+      "authors": [
+        "Gray"
+      ],
+      "journal": "Journal of Comparative Neurology",
+      "doi": "10.1002/cne.23479",
+      "pmid": "24127432"
+    },
+    {
+      "citation_id": "may_2023",
+      "title": "The Superior Colliculus Projection Upon the Macaque Inferior Olive",
+      "year": "2023",
+      "authors": [
+        "May"
+      ],
+      "journal": "Journal of Comparative Neurology",
+      "doi": "",
+      "pmid": "37398093"
+    },
+    {
+      "citation_id": "ogawa_1986",
+      "title": "Gustatory responses in the nucleus tractus solitarius of the alert cynomolgus monkey",
+      "year": "1986",
+      "authors": [
+        "Ogawa"
+      ],
+      "journal": "Journal of Neurophysiology",
+      "doi": "",
+      "pmid": "3950684"
+    },
+    {
+      "citation_id": "motohashi_1984",
+      "title": "Distribution of motoneurons in the brain stem of monkeys innervating the larynx",
+      "year": "1984",
+      "authors": [
+        "Motohashi"
+      ],
+      "journal": "Neuroscience Letters",
+      "doi": "",
+      "pmid": "6498538"
+    },
+    {
+      "citation_id": "uemura_sumi_1981",
+      "title": "Topographical representation of the hypoglossal nerve branches and tongue muscles in the hypoglossal nucleus of macaque monkeys",
+      "year": "1981",
+      "authors": [
+        "Uemura-Sumi"
+      ],
+      "journal": "Neuroscience Letters",
+      "doi": "10.1016/0304-3940(81)90280-9",
+      "pmid": "7219887"
+    },
+    {
+      "citation_id": "mizuno_1981",
+      "title": "Representation of the masticatory muscles in the motor trigeminal nucleus of the macaque monkey",
+      "year": "1981",
+      "authors": [
+        "Mizuno"
+      ],
+      "journal": "Neuroscience Letters",
+      "doi": "10.1016/0304-3940(81)90050-1",
+      "pmid": "7207865"
+    },
+    {
+      "citation_id": "may_warren_2021",
+      "title": "Macaque monkey trigeminal blink reflex circuits targeting orbicularis oculi motoneurons",
+      "year": "2021",
+      "authors": [
+        "May",
+        "Warren"
+      ],
+      "journal": "Journal of Comparative Neurology",
+      "doi": "10.1002/cne.25130",
+      "pmid": "33598920"
+    },
+    {
+      "citation_id": "versteeg_2021",
+      "title": "Encoding of limb state by single neurons in the cuneate nucleus of awake monkeys",
+      "year": "2021",
+      "authors": [
+        "Versteeg"
+      ],
+      "journal": "Journal of Neurophysiology",
+      "doi": "10.1152/jn.00568.2020",
+      "pmid": "34010577"
+    },
+    {
+      "citation_id": "strominger_1976",
+      "title": "Anatomical aspects of the superior olivary complex",
+      "year": "1976",
+      "authors": [
+        "Strominger",
+        "Hurwitz"
+      ],
+      "journal": "Journal of Comparative Neurology",
+      "doi": "10.1002/cne.901700407",
+      "pmid": "826550"
+    },
+    {
+      "citation_id": "crossland_1994",
+      "title": "Morphological study of the rostral interstitial nucleus of the medial longitudinal fasciculus in the monkey Macaca mulatta by Nissl Golgi and computer reconstruction and rotation methods",
+      "year": "1994",
+      "authors": [
+        "Crossland"
+      ],
+      "journal": "Journal of Comparative Neurology",
+      "doi": "10.1002/cne.903470105",
+      "pmid": "7528228"
+    },
+    {
+      "citation_id": "farshadmanesh_2007",
+      "title": "Three-dimensional eye-head coordination after injection of muscimol into the interstitial nucleus of Cajal (INC)",
+      "year": "2007",
+      "authors": [
+        "Farshadmanesh"
+      ],
+      "journal": "Journal of Neurophysiology",
+      "doi": "10.1152/jn.00752.2006",
+      "pmid": "17229829"
+    },
+    {
+      "citation_id": "wiesendanger_1987",
+      "title": "Topography of the corticofugal projection to the lateral reticular nucleus in the monkey",
+      "year": "1987",
+      "authors": [
+        "Wiesendanger"
+      ],
+      "journal": "Journal of Comparative Neurology",
+      "doi": "10.1002/cne.902560409",
+      "pmid": "3558890"
+    },
+    {
+      "citation_id": "hummelsheim_1985",
+      "title": "Neuronal responses of medullary relay cells to controlled stretches of forearm muscles in the monkey",
+      "year": "1985",
+      "authors": [
+        "Hummelsheim",
+        "Wiesendanger"
+      ],
+      "journal": "Neuroscience",
+      "doi": "10.1016/0306-4522(85)90111-3",
+      "pmid": "4094699"
+    },
+    {
+      "citation_id": "hong_2011",
+      "title": "Negative reward signals from the lateral habenula to dopamine neurons are mediated by rostromedial tegmental nucleus in primates",
+      "year": "2011",
+      "authors": [
+        "Hong",
+        "Jhou",
+        "Smith",
+        "Saleem",
+        "Hikosaka"
+      ],
+      "journal": "Journal of Neuroscience",
+      "doi": "10.1523/JNEUROSCI.1384-11.2011",
+      "pmid": "21832176"
+    },
+    {
+      "citation_id": "warner_2018",
+      "title": "Projections of three subcortical visual centers to marmoset lateral geniculate nucleus",
+      "year": "2018",
+      "authors": [
+        "Warner"
+      ],
+      "journal": "Journal of Comparative Neurology",
+      "doi": "10.1002/cne.24390",
+      "pmid": "29315552"
+    },
+    {
+      "citation_id": "vann_2011",
+      "title": "Projections from Gudden's tegmental nuclei to the mammillary body region in the cynomolgus monkey (Macaca fascicularis)",
+      "year": "2011",
+      "authors": [
+        "Vann"
+      ],
+      "journal": "Journal of Comparative Neurology",
+      "doi": "10.1002/cne.22638",
+      "pmid": "21830220"
+    },
+    {
+      "citation_id": "matsuyama_1996",
+      "title": "Direct projections from the medial vestibular nucleus to the posterior hypothalamic area in the monkey (Macaca fuscata)",
+      "year": "1996",
+      "authors": [
+        "Matsuyama",
+        "Kayahara",
+        "Nomura",
+        "Nakano"
+      ],
+      "journal": "Neuroscience Letters",
+      "doi": "10.1016/S0304-3940(96)13206-7",
+      "pmid": "8971814"
+    }
+  ]
+}
