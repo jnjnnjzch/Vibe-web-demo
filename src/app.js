@@ -227,6 +227,20 @@ function translatedMetadataValue(language, key, value) {
   return labels[key]?.[value] || value || '—';
 }
 
+function compactField(label, value, tone = 'neutral') {
+  if (value === undefined || value === null || value === '') return '';
+  return `
+    <span class="info-pill is-${escapeHtml(tone)}">
+      <small>${escapeHtml(label)}</small>
+      <strong>${formatValue(value)}</strong>
+    </span>
+  `;
+}
+
+function renderInfoPills(items) {
+  return items.map((item) => compactField(item.label, item.value, item.tone)).join('');
+}
+
 export function buildMetadataPresentation(viewModel, language = defaultLanguage) {
   const chineseStatus = viewModel.localized_names?.['zh-CN']?.status || 'pending_standardization';
   const sourceTitle = viewModel.source?.title || viewModel.source?.source_id || '';
@@ -313,7 +327,10 @@ function renderResults(container, regions, selectedId, onSelect, language) {
         ${escapeHtml(displayName(region, language).text)}
         ${displayName(region, language).status === 'machine_translated' ? `<em>${translated(language, 'Auto translated', '自动翻译')}</em>` : ''}
       </span>
-      <small>${escapeHtml(region.group || '—')} · ${escapeHtml(region.entry_id)}</small>
+      <small class="result-tags">
+        <span>${escapeHtml(region.group || '—')}</span>
+        <span>${escapeHtml(region.entry_id)}</span>
+      </small>
     `;
     button.addEventListener('click', () => onSelect(region.entry_id));
     container.append(button);
@@ -328,18 +345,75 @@ function renderDetail(container, viewModel, language) {
 
   const scaffoldAsset = isScaffoldAsset(viewModel);
   const missingInVolume = viewModel.asset?.asset_status === 'missing_in_volume';
-  const provenanceLabel = scaffoldAsset
-    ? translated(language, 'Scaffold asset path', '脚手架资产链路')
-    : translated(language, 'Asset provenance', '资产来源');
   const metadata = buildMetadataPresentation(viewModel, language);
+  const name = displayName(viewModel, language);
+  const keyFacts = [
+    {
+      label: translated(language, 'Official label', '官方 label'),
+      value: viewModel.official_label,
+    },
+    {
+      label: translated(language, 'Long name', '官方长名'),
+      value: viewModel.official_long_name,
+    },
+    {
+      label: translated(language, 'Display', '推荐显示'),
+      value: viewModel.recommended_display_name,
+    },
+    {
+      label: translated(language, 'Chinese', '中文'),
+      value: viewModel.localized_names?.['zh-CN']?.name,
+      tone: semanticTone(name.status, 'chinese'),
+    },
+  ];
+  const taxonomy = [
+    {
+      label: translated(language, 'Group', '分组'),
+      value: viewModel.group,
+    },
+    {
+      label: translated(language, 'Subgroup', '亚组'),
+      value: viewModel.subgroup,
+    },
+    {
+      label: translated(language, 'Ambiguity', '歧义'),
+      value: viewModel.ambiguity_note,
+      tone: viewModel.ambiguity_note ? 'warning' : 'neutral',
+    },
+  ];
+  const assetPills = [
+    {
+      label: translated(language, 'Source', '来源'),
+      value: viewModel.source?.title,
+    },
+    {
+      label: translated(language, 'Authoritative', '权威'),
+      value: formatBoolean(viewModel.source?.is_authoritative, language),
+      tone: semanticTone(viewModel.source?.is_authoritative, 'authoritative'),
+    },
+    {
+      label: translated(language, 'Method', '生成'),
+      value: viewModel.asset?.generation_method || viewModel.source?.generation_method,
+      tone: scaffoldAsset ? 'warning' : 'neutral',
+    },
+    {
+      label: translated(language, 'License', '授权'),
+      value: viewModel.asset?.license_status || viewModel.source?.license_status,
+    },
+    {
+      label: translated(language, 'Missing reason', '缺失原因'),
+      value: viewModel.asset?.missing_reason,
+      tone: missingInVolume ? 'missing' : 'neutral',
+    },
+  ];
 
   container.innerHTML = `
-    <div class="detail-heading">
+    <div class="detail-heading detail-heading--compact">
       <div>
         <p class="detail-kicker">${translated(language, 'Selected region', '当前区域')}</p>
-        <h3 class="localized-name is-${escapeHtml(displayName(viewModel, language).status)}">
-          ${formatValue(displayName(viewModel, language).text)}
-          ${displayName(viewModel, language).status === 'machine_translated' ? `<em>${translated(language, 'Auto translated', '自动翻译')}</em>` : ''}
+        <h3 class="localized-name is-${escapeHtml(name.status)}">
+          ${formatValue(name.text)}
+          ${name.status === 'machine_translated' ? `<em>${translated(language, 'Auto translated', '自动翻译')}</em>` : ''}
         </h3>
       </div>
       <span class="status-pill ${missingInVolume || scaffoldAsset ? 'is-warning' : 'is-ready'}">
@@ -350,7 +424,7 @@ function renderDetail(container, viewModel, language) {
           : translated(language, 'Atlas-backed', '图谱支撑')}
       </span>
     </div>
-    <div class="metadata-rails" aria-label="${translated(language, 'Audit metadata', '复核元数据')}">
+    <div class="metadata-rails metadata-rails--compact" aria-label="${translated(language, 'Audit metadata', '复核元数据')}">
       <div class="metadata-rail metadata-rail--primary">
         ${metadata.primary.map((item) => `
           <span class="metadata-badge is-${escapeHtml(item.tone)}">
@@ -368,32 +442,29 @@ function renderDetail(container, viewModel, language) {
         `).join('')}
       </div>
     </div>
-    <dl class="detail-grid detail-grid--reading">
-      <dt>${translated(language, 'Official label', '官方 label')}</dt><dd>${formatValue(viewModel.official_label)}</dd>
-      <dt>${translated(language, 'Official long name', '官方长名')}</dt><dd>${formatValue(viewModel.official_long_name)}</dd>
-      <dt>${translated(language, 'Display name', '推荐显示名')}</dt><dd>${formatValue(viewModel.recommended_display_name)}</dd>
-      <dt>${translated(language, 'Chinese name', '中文名')}</dt><dd>${formatValue(viewModel.localized_names?.['zh-CN']?.name)}</dd>
-      <dt>${translated(language, 'Group', '分组')}</dt><dd>${formatValue(viewModel.group)}</dd>
-      <dt>${translated(language, 'Subgroup', '亚组')}</dt><dd>${formatValue(viewModel.subgroup)}</dd>
-      <dt>${translated(language, 'Ambiguity', '歧义说明')}</dt><dd>${formatValue(viewModel.ambiguity_note)}</dd>
-      <dt>${translated(language, 'Missing reason', '缺失原因')}</dt><dd>${formatValue(viewModel.asset?.missing_reason)}</dd>
-    </dl>
-    <h3>${translated(language, 'Aliases', '别名')}</h3>
-    <ul class="alias-list">
-      ${viewModel.aliases.map((alias) => `
-        <li>
-          <span>${formatValue(alias.alias)}</span>
-          <em>${formatValue(alias.relation_type)}</em>
-        </li>
-      `).join('')}
-    </ul>
-    <h3>${provenanceLabel}</h3>
-    <dl class="detail-grid provenance-grid">
-      <dt>${translated(language, 'Source', '来源')}</dt><dd>${formatValue(viewModel.source?.title)}</dd>
-      <dt>${translated(language, 'Authoritative', '权威性')}</dt><dd>${formatBoolean(viewModel.source?.is_authoritative, language)}</dd>
-      <dt>${translated(language, 'Method', '生成方式')}</dt><dd>${formatValue(viewModel.asset?.generation_method || viewModel.source?.generation_method)}</dd>
-      <dt>${translated(language, 'License', '授权')}</dt><dd>${formatValue(viewModel.asset?.license_status || viewModel.source?.license_status)}</dd>
-    </dl>
+    <section class="detail-section detail-section--pills">
+      <h3>${translated(language, 'Names', '名称')}</h3>
+      <div class="info-pill-grid">${renderInfoPills(keyFacts)}</div>
+    </section>
+    <section class="detail-section detail-section--pills">
+      <h3>${translated(language, 'Taxonomy', '分类')}</h3>
+      <div class="info-pill-grid">${renderInfoPills(taxonomy)}</div>
+    </section>
+    <section class="detail-section detail-section--pills">
+      <h3>${scaffoldAsset ? translated(language, 'Scaffold asset path', '脚手架资产链路') : translated(language, 'Asset provenance', '资产来源')}</h3>
+      <div class="info-pill-grid">${renderInfoPills(assetPills)}</div>
+    </section>
+    <section class="detail-section">
+      <h3>${translated(language, 'Aliases', '别名')}</h3>
+      <ul class="alias-list alias-list--pills">
+        ${viewModel.aliases.map((alias) => `
+          <li>
+            <span>${formatValue(alias.alias)}</span>
+            <em>${formatValue(alias.relation_type)}</em>
+          </li>
+        `).join('')}
+      </ul>
+    </section>
     ${missingInVolume ? `
       <p class="callout">
         ${translated(
