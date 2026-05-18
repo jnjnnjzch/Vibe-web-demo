@@ -428,10 +428,12 @@ function renderExternalLinks(paper, language) {
 
 function renderSummaryBlock(title, summary, language) {
   if (!summary) return '';
+  const text = summary[language] || summary.en || '';
+  if (!text.trim()) return '';
   return `
     <section class="knowledge-summary">
       <h4>${title}</h4>
-      <p>${escapeHtml(summary[language] || summary.en || '')}</p>
+      <p>${escapeHtml(text)}</p>
       <div class="citation-markers">${renderCitationMarkers(summary.citation_ids)}</div>
     </section>
   `;
