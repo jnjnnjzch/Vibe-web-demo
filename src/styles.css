@@ -110,6 +110,30 @@ body {
 }
 .localized-name.is-machine_translated { color: #8fa2b4; }
 .knowledge-card { display: grid; gap: 12px; }
+.review-rail {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.review-badge {
+  border-radius: 999px;
+  padding: 5px 9px;
+  font-size: .76rem;
+  font-weight: 700;
+}
+.review-badge.is-standard {
+  color: #0f6a4d;
+  background: rgba(49, 196, 141, .16);
+}
+.review-badge.is-checked_sparse {
+  color: #8a4b00;
+  background: rgba(255, 186, 73, .2);
+}
+.review-reasons {
+  color: var(--d99-muted);
+  font-size: .78rem;
+}
 .knowledge-panel {
   display: grid;
   gap: 12px;

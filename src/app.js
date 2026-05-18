@@ -134,6 +134,7 @@ export function buildRegionViewModel(dataset, entryId) {
     references: paperRecord.references || [],
     paper_annotations: paperRecord.paper_annotations || [],
     evidence_density: paperRecord.evidence_density || null,
+    review: paperRecord.review || null,
     functional_summary: paperRecord.functional_summary || null,
     connectivity_summary: paperRecord.connectivity_summary || null,
   };
@@ -439,12 +440,27 @@ function renderPapers(container, viewModel, language) {
   const papers = viewModel?.papers || [];
   const functional = viewModel?.functional_summary;
   const connectivity = viewModel?.connectivity_summary;
+  const review = viewModel?.review || null;
   if (!papers.length && !functional && !connectivity) {
     container.innerHTML = `<p class="muted">${translated(language, 'No paper-layer content yet.', '暂无论文层内容。')}</p>`;
     return;
   }
+  const reviewLabel = review?.status === 'checked_sparse'
+    ? translated(language, 'Checked sparse', '复核后 sparse')
+    : review?.status === 'standard'
+      ? translated(language, 'Reviewed standard', '已复核 standard')
+      : '';
+  const reviewReasons = (review?.checked_sparse_reasons || [])
+    .map((reason) => reason.replaceAll('_', ' '))
+    .join(' · ');
   container.innerHTML = `
     <article class="knowledge-card">
+      ${reviewLabel ? `
+        <div class="review-rail">
+          <span class="review-badge is-${escapeHtml(review.status)}">${escapeHtml(reviewLabel)}</span>
+          ${reviewReasons ? `<span class="review-reasons">${escapeHtml(reviewReasons)}</span>` : ''}
+        </div>
+      ` : ''}
       ${renderSummaryBlock(translated(language, 'Function', '功能摘要'), functional, language)}
       ${renderSummaryBlock(translated(language, 'Connectivity', '连接摘要'), connectivity, language)}
       <details class="paper-list">
