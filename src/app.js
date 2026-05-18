@@ -420,6 +420,7 @@ function renderCitationMarkers(ids = []) {
 
 function renderExternalLinks(paper, language) {
   const links = [];
+  if (paper.source_link) links.push(`<a href="${escapeHtml(paper.source_link)}" target="_blank" rel="noreferrer">${translated(language, 'Source', '来源')}</a>`);
   if (paper.doi) links.push(`<a href="https://doi.org/${encodeURIComponent(paper.doi)}" target="_blank" rel="noreferrer">DOI</a>`);
   if (paper.pmid) links.push(`<a href="https://pubmed.ncbi.nlm.nih.gov/${encodeURIComponent(paper.pmid)}/" target="_blank" rel="noreferrer">PubMed</a>`);
   return links.length ? links.join(' · ') : translated(language, 'No external link', '暂无外链');
